@@ -1,0 +1,6448 @@
+{
+  "a": {
+    "parts": [
+      "\u2205",
+      "a"
+    ],
+    "zhuyin": "\u311a",
+    "ipa": [
+      "\u0251"
+    ],
+    "yale": "a",
+    "wadeGiles": "a",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/a"
+  },
+  "ai": {
+    "parts": [
+      "\u2205",
+      "ai"
+    ],
+    "zhuyin": "\u311e",
+    "ipa": [
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "ai",
+    "wadeGiles": "ai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ai"
+  },
+  "ao": {
+    "parts": [
+      "\u2205",
+      "ao"
+    ],
+    "zhuyin": "\u3120",
+    "ipa": [
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "au",
+    "wadeGiles": "ao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ao"
+  },
+  "an": {
+    "parts": [
+      "\u2205",
+      "an"
+    ],
+    "zhuyin": "\u3122",
+    "ipa": [
+      "a",
+      "n"
+    ],
+    "yale": "an",
+    "wadeGiles": "an",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/an"
+  },
+  "ang": {
+    "parts": [
+      "\u2205",
+      "ang"
+    ],
+    "zhuyin": "\u3124",
+    "ipa": [
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "ang",
+    "wadeGiles": "ang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ang"
+  },
+  "e": {
+    "parts": [
+      "\u2205",
+      "e"
+    ],
+    "zhuyin": "\u311c",
+    "ipa": [
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "e",
+    "wadeGiles": "e",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/e"
+  },
+  "ei": {
+    "parts": [
+      "\u2205",
+      "ei"
+    ],
+    "zhuyin": "\u311f",
+    "ipa": [
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "ei",
+    "wadeGiles": "ei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ei"
+  },
+  "en": {
+    "parts": [
+      "\u2205",
+      "en"
+    ],
+    "zhuyin": "\u3123",
+    "ipa": [
+      "\u0259",
+      "n"
+    ],
+    "yale": "en",
+    "wadeGiles": "en",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/en"
+  },
+  "eng": {
+    "parts": [
+      "\u2205",
+      "eng"
+    ],
+    "zhuyin": "\u3125",
+    "ipa": [
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "eng",
+    "wadeGiles": "eng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/eng"
+  },
+  "er": {
+    "parts": [
+      "\u2205",
+      "er"
+    ],
+    "zhuyin": "\u3126",
+    "ipa": [
+      "\u0251",
+      "\u027b"
+    ],
+    "yale": "er",
+    "wadeGiles": "erh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/er"
+  },
+  "o": {
+    "parts": [
+      "\u2205",
+      "o"
+    ],
+    "zhuyin": "\u311b",
+    "ipa": [
+      "\u0254"
+    ],
+    "yale": "o",
+    "wadeGiles": "o",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/o"
+  },
+  "ou": {
+    "parts": [
+      "\u2205",
+      "ou"
+    ],
+    "zhuyin": "\u3121",
+    "ipa": [
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "ou",
+    "wadeGiles": "ou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ou"
+  },
+  "yi": {
+    "parts": [
+      "\u2205",
+      "i"
+    ],
+    "zhuyin": "\u3127",
+    "ipa": [
+      "i"
+    ],
+    "yale": "yi",
+    "wadeGiles": "i",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/yi"
+  },
+  "ya": {
+    "parts": [
+      "\u2205",
+      "ia"
+    ],
+    "zhuyin": "\u3127\u311a",
+    "ipa": [
+      "i",
+      "\u032f",
+      "\u0251"
+    ],
+    "yale": "ya",
+    "wadeGiles": "ya",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ya"
+  },
+  "yao": {
+    "parts": [
+      "\u2205",
+      "iao"
+    ],
+    "zhuyin": "\u3127\u3120",
+    "ipa": [
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "yau",
+    "wadeGiles": "yao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/yao"
+  },
+  "ye": {
+    "parts": [
+      "\u2205",
+      "ie"
+    ],
+    "zhuyin": "\u3127\u311d",
+    "ipa": [
+      "i",
+      "\u025b"
+    ],
+    "yale": "ye",
+    "wadeGiles": "yeh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ye"
+  },
+  "you": {
+    "parts": [
+      "\u2205",
+      "iou"
+    ],
+    "zhuyin": "\u3127\u3121",
+    "ipa": [
+      "i",
+      "\u032f",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "you",
+    "wadeGiles": "yu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/you"
+  },
+  "yan": {
+    "parts": [
+      "\u2205",
+      "ian"
+    ],
+    "zhuyin": "\u3127\u3122",
+    "ipa": [
+      "i",
+      "\u025b",
+      "n"
+    ],
+    "yale": "yan",
+    "wadeGiles": "yan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/yan"
+  },
+  "yang": {
+    "parts": [
+      "\u2205",
+      "iang"
+    ],
+    "zhuyin": "\u3127\u3124",
+    "ipa": [
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "yang",
+    "wadeGiles": "yang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/yang"
+  },
+  "yin": {
+    "parts": [
+      "\u2205",
+      "in"
+    ],
+    "zhuyin": "\u3127\u3123",
+    "ipa": [
+      "i",
+      "n"
+    ],
+    "yale": "yin",
+    "wadeGiles": "yin",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/yin"
+  },
+  "ying": {
+    "parts": [
+      "\u2205",
+      "ing"
+    ],
+    "zhuyin": "\u3127\u3125",
+    "ipa": [
+      "i",
+      "\u014b"
+    ],
+    "yale": "ying",
+    "wadeGiles": "ying",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ying"
+  },
+  "yong": {
+    "parts": [
+      "\u2205",
+      "iong"
+    ],
+    "zhuyin": "\u3129\u3125",
+    "ipa": [],
+    "yale": "yung",
+    "wadeGiles": "yung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/yong"
+  },
+  "wu": {
+    "parts": [
+      "\u2205",
+      "u"
+    ],
+    "zhuyin": "\u3128",
+    "ipa": [
+      "u"
+    ],
+    "yale": "wu",
+    "wadeGiles": "wu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/wu"
+  },
+  "wa": {
+    "parts": [
+      "\u2205",
+      "ua"
+    ],
+    "zhuyin": "\u3128\u311a",
+    "ipa": [
+      "w",
+      "\u0251"
+    ],
+    "yale": "wa",
+    "wadeGiles": "wa",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/wa"
+  },
+  "wai": {
+    "parts": [
+      "\u2205",
+      "uai"
+    ],
+    "zhuyin": "\u3128\u311e",
+    "ipa": [
+      "w",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "wai",
+    "wadeGiles": "wai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/wai"
+  },
+  "wei": {
+    "parts": [
+      "\u2205",
+      "uei"
+    ],
+    "zhuyin": "\u3128\u311f",
+    "ipa": [
+      "w",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "wei",
+    "wadeGiles": "wei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/wei"
+  },
+  "wo": {
+    "parts": [
+      "\u2205",
+      "uo"
+    ],
+    "zhuyin": "\u3128\u311b",
+    "ipa": [
+      "w",
+      "\u0254"
+    ],
+    "yale": "wo",
+    "wadeGiles": "wo",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/wo"
+  },
+  "wan": {
+    "parts": [
+      "\u2205",
+      "uan"
+    ],
+    "zhuyin": "\u3128\u3122",
+    "ipa": [
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "wan",
+    "wadeGiles": "wan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/wan"
+  },
+  "wang": {
+    "parts": [
+      "\u2205",
+      "uang"
+    ],
+    "zhuyin": "\u3128\u3124",
+    "ipa": [
+      "w",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "wang",
+    "wadeGiles": "wang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/wang"
+  },
+  "wen": {
+    "parts": [
+      "\u2205",
+      "uen"
+    ],
+    "zhuyin": "\u3128\u3123",
+    "ipa": [
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "wen",
+    "wadeGiles": "wen",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/wen"
+  },
+  "weng": {
+    "parts": [
+      "\u2205",
+      "ueng"
+    ],
+    "zhuyin": "\u3128\u3125",
+    "ipa": [
+      "w",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "weng",
+    "wadeGiles": "weng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/weng"
+  },
+  "yu": {
+    "parts": [
+      "\u2205",
+      "\u00fc"
+    ],
+    "zhuyin": "\u3129",
+    "ipa": [
+      "y"
+    ],
+    "yale": "yu",
+    "wadeGiles": "y\u00fc",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/yu"
+  },
+  "yue": {
+    "parts": [
+      "\u2205",
+      "\u00fce"
+    ],
+    "zhuyin": "\u3129\u311d",
+    "ipa": [
+      "y",
+      "\u032f",
+      "\u0153"
+    ],
+    "yale": "ywe",
+    "wadeGiles": "y\u00fceh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/yue"
+  },
+  "yuan": {
+    "parts": [
+      "\u2205",
+      "\u00fcan"
+    ],
+    "zhuyin": "\u3129\u3122",
+    "ipa": [
+      "y",
+      "\u032f",
+      "\u025b",
+      "n"
+    ],
+    "yale": "ywan",
+    "wadeGiles": "y\u00fcan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/yuan"
+  },
+  "yun": {
+    "parts": [
+      "\u2205",
+      "\u00fcn"
+    ],
+    "zhuyin": "\u3129\u3123",
+    "ipa": [
+      "y",
+      "n"
+    ],
+    "yale": "yun",
+    "wadeGiles": "y\u00fcn",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/yun"
+  },
+  "ba": {
+    "parts": [
+      "b",
+      "a"
+    ],
+    "zhuyin": "\u3105\u311a",
+    "ipa": [
+      "p",
+      "\u0251"
+    ],
+    "yale": "ba",
+    "wadeGiles": "pa",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ba"
+  },
+  "bai": {
+    "parts": [
+      "b",
+      "ai"
+    ],
+    "zhuyin": "\u3105\u311e",
+    "ipa": [
+      "p",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "bai",
+    "wadeGiles": "pai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/bai"
+  },
+  "bao": {
+    "parts": [
+      "b",
+      "ao"
+    ],
+    "zhuyin": "\u3105\u3120",
+    "ipa": [
+      "p",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "bau",
+    "wadeGiles": "pao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/bao"
+  },
+  "ban": {
+    "parts": [
+      "b",
+      "an"
+    ],
+    "zhuyin": "\u3105\u3122",
+    "ipa": [
+      "p",
+      "a",
+      "n"
+    ],
+    "yale": "ban",
+    "wadeGiles": "pan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ban"
+  },
+  "bang": {
+    "parts": [
+      "b",
+      "ang"
+    ],
+    "zhuyin": "\u3105\u3124",
+    "ipa": [
+      "p",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "bang",
+    "wadeGiles": "pang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/bang"
+  },
+  "bei": {
+    "parts": [
+      "b",
+      "ei"
+    ],
+    "zhuyin": "\u3105\u311f",
+    "ipa": [
+      "p",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "bei",
+    "wadeGiles": "pei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/bei"
+  },
+  "ben": {
+    "parts": [
+      "b",
+      "en"
+    ],
+    "zhuyin": "\u3105\u3123",
+    "ipa": [
+      "p",
+      "\u0259",
+      "n"
+    ],
+    "yale": "ben",
+    "wadeGiles": "pen",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ben"
+  },
+  "beng": {
+    "parts": [
+      "b",
+      "eng"
+    ],
+    "zhuyin": "\u3105\u3125",
+    "ipa": [
+      "p",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "beng",
+    "wadeGiles": "peng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/beng"
+  },
+  "bo": {
+    "parts": [
+      "b",
+      "o"
+    ],
+    "zhuyin": "\u3105\u311b",
+    "ipa": [
+      "p",
+      "w",
+      "\u0254"
+    ],
+    "yale": "bwo",
+    "wadeGiles": "po",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/bo"
+  },
+  "bi": {
+    "parts": [
+      "b",
+      "i"
+    ],
+    "zhuyin": "\u3105\u3127",
+    "ipa": [
+      "p",
+      "i"
+    ],
+    "yale": "bi",
+    "wadeGiles": "pi",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/bi"
+  },
+  "biao": {
+    "parts": [
+      "b",
+      "iao"
+    ],
+    "zhuyin": "\u3105\u3127\u3120",
+    "ipa": [
+      "p",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "byau",
+    "wadeGiles": "piao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/biao"
+  },
+  "bie": {
+    "parts": [
+      "b",
+      "ie"
+    ],
+    "zhuyin": "\u3105\u3127\u311d",
+    "ipa": [
+      "p",
+      "i",
+      "\u025b"
+    ],
+    "yale": "bye",
+    "wadeGiles": "pieh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/bie"
+  },
+  "bian": {
+    "parts": [
+      "b",
+      "ian"
+    ],
+    "zhuyin": "\u3105\u3127\u3122",
+    "ipa": [
+      "p",
+      "i",
+      "\u025b",
+      "n"
+    ],
+    "yale": "byan",
+    "wadeGiles": "pien",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/bian"
+  },
+  "bin": {
+    "parts": [
+      "b",
+      "in"
+    ],
+    "zhuyin": "\u3105\u3127\u3123",
+    "ipa": [
+      "p",
+      "i",
+      "n"
+    ],
+    "yale": "bin",
+    "wadeGiles": "pin",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/bin"
+  },
+  "bing": {
+    "parts": [
+      "b",
+      "ing"
+    ],
+    "zhuyin": "\u3105\u3127\u3125",
+    "ipa": [
+      "p",
+      "i",
+      "\u014b"
+    ],
+    "yale": "bing",
+    "wadeGiles": "ping",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/bing"
+  },
+  "bu": {
+    "parts": [
+      "b",
+      "u"
+    ],
+    "zhuyin": "\u3105\u3128",
+    "ipa": [
+      "p",
+      "u"
+    ],
+    "yale": "bu",
+    "wadeGiles": "pu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/bu"
+  },
+  "pa": {
+    "parts": [
+      "p",
+      "a"
+    ],
+    "zhuyin": "\u3106\u311a",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "\u0251"
+    ],
+    "yale": "pa",
+    "wadeGiles": "p'a",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/pa"
+  },
+  "pai": {
+    "parts": [
+      "p",
+      "ai"
+    ],
+    "zhuyin": "\u3106\u311e",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "pai",
+    "wadeGiles": "p'ai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/pai"
+  },
+  "pao": {
+    "parts": [
+      "p",
+      "ao"
+    ],
+    "zhuyin": "\u3106\u3120",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "pau",
+    "wadeGiles": "p'ao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/pao"
+  },
+  "pan": {
+    "parts": [
+      "p",
+      "an"
+    ],
+    "zhuyin": "\u3106\u3122",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "a",
+      "n"
+    ],
+    "yale": "pan",
+    "wadeGiles": "p'an",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/pan"
+  },
+  "pang": {
+    "parts": [
+      "p",
+      "ang"
+    ],
+    "zhuyin": "\u3106\u3124",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "pang",
+    "wadeGiles": "p'ang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/pang"
+  },
+  "pei": {
+    "parts": [
+      "p",
+      "ei"
+    ],
+    "zhuyin": "\u3106\u311f",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "pei",
+    "wadeGiles": "p'ei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/pei"
+  },
+  "pen": {
+    "parts": [
+      "p",
+      "en"
+    ],
+    "zhuyin": "\u3106\u3123",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "\u0259",
+      "n"
+    ],
+    "yale": "pen",
+    "wadeGiles": "p'en",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/pen"
+  },
+  "peng": {
+    "parts": [
+      "p",
+      "eng"
+    ],
+    "zhuyin": "\u3106\u3125",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "peng",
+    "wadeGiles": "p'eng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/peng"
+  },
+  "po": {
+    "parts": [
+      "p",
+      "o"
+    ],
+    "zhuyin": "\u3106\u311b",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "w",
+      "\u0254"
+    ],
+    "yale": "pwo",
+    "wadeGiles": "p'o",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/po"
+  },
+  "pou": {
+    "parts": [
+      "p",
+      "ou"
+    ],
+    "zhuyin": "\u3106\u3121",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "pou",
+    "wadeGiles": "p'ou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/pou"
+  },
+  "pi": {
+    "parts": [
+      "p",
+      "i"
+    ],
+    "zhuyin": "\u3106\u3127",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "i"
+    ],
+    "yale": "pi",
+    "wadeGiles": "p'i",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/pi"
+  },
+  "piao": {
+    "parts": [
+      "p",
+      "iao"
+    ],
+    "zhuyin": "\u3106\u3127\u3120",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "pyau",
+    "wadeGiles": "p'iao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/piao"
+  },
+  "pie": {
+    "parts": [
+      "p",
+      "ie"
+    ],
+    "zhuyin": "\u3106\u3127\u311d",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "i",
+      "\u025b"
+    ],
+    "yale": "pye",
+    "wadeGiles": "p'ieh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/pie"
+  },
+  "pian": {
+    "parts": [
+      "p",
+      "ian"
+    ],
+    "zhuyin": "\u3106\u3127\u3122",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "i",
+      "\u025b",
+      "n"
+    ],
+    "yale": "pyan",
+    "wadeGiles": "p'ien",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/pian"
+  },
+  "pin": {
+    "parts": [
+      "p",
+      "in"
+    ],
+    "zhuyin": "\u3106\u3127\u3123",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "i",
+      "n"
+    ],
+    "yale": "pin",
+    "wadeGiles": "p'in",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/pin"
+  },
+  "ping": {
+    "parts": [
+      "p",
+      "ing"
+    ],
+    "zhuyin": "\u3106\u3127\u3125",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "i",
+      "\u014b"
+    ],
+    "yale": "ping",
+    "wadeGiles": "p'ing",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ping"
+  },
+  "pu": {
+    "parts": [
+      "p",
+      "u"
+    ],
+    "zhuyin": "\u3106\u3128",
+    "ipa": [
+      "p",
+      "\u02b0",
+      "u"
+    ],
+    "yale": "pu",
+    "wadeGiles": "p'u",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/pu"
+  },
+  "ma": {
+    "parts": [
+      "m",
+      "a"
+    ],
+    "zhuyin": "\u3107\u311a",
+    "ipa": [
+      "m",
+      "\u0251"
+    ],
+    "yale": "ma",
+    "wadeGiles": "ma",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ma"
+  },
+  "mai": {
+    "parts": [
+      "m",
+      "ai"
+    ],
+    "zhuyin": "\u3107\u311e",
+    "ipa": [
+      "m",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "mai",
+    "wadeGiles": "mai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/mai"
+  },
+  "mao": {
+    "parts": [
+      "m",
+      "ao"
+    ],
+    "zhuyin": "\u3107\u3120",
+    "ipa": [
+      "m",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "mau",
+    "wadeGiles": "mao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/mao"
+  },
+  "man": {
+    "parts": [
+      "m",
+      "an"
+    ],
+    "zhuyin": "\u3107\u3122",
+    "ipa": [
+      "m",
+      "a",
+      "n"
+    ],
+    "yale": "man",
+    "wadeGiles": "man",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/man"
+  },
+  "mang": {
+    "parts": [
+      "m",
+      "ang"
+    ],
+    "zhuyin": "\u3107\u3124",
+    "ipa": [
+      "m",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "mang",
+    "wadeGiles": "mang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/mang"
+  },
+  "me": {
+    "parts": [
+      "m",
+      "e"
+    ],
+    "zhuyin": "\u3107\u311c",
+    "ipa": [
+      "m",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "me",
+    "wadeGiles": "me",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/me"
+  },
+  "mei": {
+    "parts": [
+      "m",
+      "ei"
+    ],
+    "zhuyin": "\u3107\u311f",
+    "ipa": [
+      "m",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "mei",
+    "wadeGiles": "mei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/mei"
+  },
+  "men": {
+    "parts": [
+      "m",
+      "en"
+    ],
+    "zhuyin": "\u3107\u3123",
+    "ipa": [
+      "m",
+      "\u0259",
+      "n"
+    ],
+    "yale": "men",
+    "wadeGiles": "men",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/men"
+  },
+  "meng": {
+    "parts": [
+      "m",
+      "eng"
+    ],
+    "zhuyin": "\u3107\u3125",
+    "ipa": [
+      "m",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "meng",
+    "wadeGiles": "meng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/meng"
+  },
+  "mo": {
+    "parts": [
+      "m",
+      "o"
+    ],
+    "zhuyin": "\u3107\u311b",
+    "ipa": [
+      "m",
+      "w",
+      "\u0254"
+    ],
+    "yale": "mwo",
+    "wadeGiles": "mo",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/mo"
+  },
+  "mou": {
+    "parts": [
+      "m",
+      "ou"
+    ],
+    "zhuyin": "\u3107\u3121",
+    "ipa": [
+      "m",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "mou",
+    "wadeGiles": "mou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/mou"
+  },
+  "mi": {
+    "parts": [
+      "m",
+      "i"
+    ],
+    "zhuyin": "\u3107\u3127",
+    "ipa": [
+      "m",
+      "i"
+    ],
+    "yale": "mi",
+    "wadeGiles": "mi",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/mi"
+  },
+  "miao": {
+    "parts": [
+      "m",
+      "iao"
+    ],
+    "zhuyin": "\u3107\u3127\u3120",
+    "ipa": [
+      "m",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "myau",
+    "wadeGiles": "miao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/miao"
+  },
+  "mie": {
+    "parts": [
+      "m",
+      "ie"
+    ],
+    "zhuyin": "\u3107\u3127\u311d",
+    "ipa": [
+      "m",
+      "i",
+      "\u025b"
+    ],
+    "yale": "mye",
+    "wadeGiles": "mieh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/mie"
+  },
+  "miu": {
+    "parts": [
+      "m",
+      "iou"
+    ],
+    "zhuyin": "\u3107\u3127\u3121",
+    "ipa": [
+      "m",
+      "i",
+      "\u032f",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "myou",
+    "wadeGiles": "miu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/miu"
+  },
+  "mian": {
+    "parts": [
+      "m",
+      "ian"
+    ],
+    "zhuyin": "\u3107\u3127\u3122",
+    "ipa": [
+      "m",
+      "i",
+      "\u025b",
+      "n"
+    ],
+    "yale": "myan",
+    "wadeGiles": "mien",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/mian"
+  },
+  "min": {
+    "parts": [
+      "m",
+      "in"
+    ],
+    "zhuyin": "\u3107\u3127\u3123",
+    "ipa": [
+      "m",
+      "i",
+      "n"
+    ],
+    "yale": "min",
+    "wadeGiles": "min",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/min"
+  },
+  "ming": {
+    "parts": [
+      "m",
+      "ing"
+    ],
+    "zhuyin": "\u3107\u3127\u3125",
+    "ipa": [
+      "m",
+      "i",
+      "\u014b"
+    ],
+    "yale": "ming",
+    "wadeGiles": "ming",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ming"
+  },
+  "mu": {
+    "parts": [
+      "m",
+      "u"
+    ],
+    "zhuyin": "\u3107\u3128",
+    "ipa": [
+      "m",
+      "u"
+    ],
+    "yale": "mu",
+    "wadeGiles": "mu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/mu"
+  },
+  "fa": {
+    "parts": [
+      "f",
+      "a"
+    ],
+    "zhuyin": "\u3108\u311a",
+    "ipa": [
+      "f",
+      "\u0251"
+    ],
+    "yale": "fa",
+    "wadeGiles": "fa",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/fa"
+  },
+  "fan": {
+    "parts": [
+      "f",
+      "an"
+    ],
+    "zhuyin": "\u3108\u3122",
+    "ipa": [
+      "f",
+      "a",
+      "n"
+    ],
+    "yale": "fan",
+    "wadeGiles": "fan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/fan"
+  },
+  "fang": {
+    "parts": [
+      "f",
+      "ang"
+    ],
+    "zhuyin": "\u3108\u3124",
+    "ipa": [
+      "f",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "fang",
+    "wadeGiles": "fang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/fang"
+  },
+  "fei": {
+    "parts": [
+      "f",
+      "ei"
+    ],
+    "zhuyin": "\u3108\u311f",
+    "ipa": [
+      "f",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "fei",
+    "wadeGiles": "fei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/fei"
+  },
+  "fen": {
+    "parts": [
+      "f",
+      "en"
+    ],
+    "zhuyin": "\u3108\u3123",
+    "ipa": [
+      "f",
+      "\u0259",
+      "n"
+    ],
+    "yale": "fen",
+    "wadeGiles": "fen",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/fen"
+  },
+  "feng": {
+    "parts": [
+      "f",
+      "eng"
+    ],
+    "zhuyin": "\u3108\u3125",
+    "ipa": [
+      "f",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "feng",
+    "wadeGiles": "feng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/feng"
+  },
+  "fo": {
+    "parts": [
+      "f",
+      "o"
+    ],
+    "zhuyin": "\u3108\u311b",
+    "ipa": [
+      "f",
+      "w",
+      "\u0254"
+    ],
+    "yale": "fwo",
+    "wadeGiles": "fo",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/fo"
+  },
+  "fou": {
+    "parts": [
+      "f",
+      "ou"
+    ],
+    "zhuyin": "\u3108\u3121",
+    "ipa": [
+      "f",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "fou",
+    "wadeGiles": "fou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/fou"
+  },
+  "fu": {
+    "parts": [
+      "f",
+      "u"
+    ],
+    "zhuyin": "\u3108\u3128",
+    "ipa": [
+      "f",
+      "u"
+    ],
+    "yale": "fu",
+    "wadeGiles": "fu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/fu"
+  },
+  "da": {
+    "parts": [
+      "d",
+      "a"
+    ],
+    "zhuyin": "\u3109\u311a",
+    "ipa": [
+      "t",
+      "\u0251"
+    ],
+    "yale": "da",
+    "wadeGiles": "ta",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/da"
+  },
+  "dai": {
+    "parts": [
+      "d",
+      "ai"
+    ],
+    "zhuyin": "\u3109\u311e",
+    "ipa": [
+      "t",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "dai",
+    "wadeGiles": "tai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/dai"
+  },
+  "dao": {
+    "parts": [
+      "d",
+      "ao"
+    ],
+    "zhuyin": "\u3109\u3120",
+    "ipa": [
+      "t",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "dau",
+    "wadeGiles": "tao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/dao"
+  },
+  "dan": {
+    "parts": [
+      "d",
+      "an"
+    ],
+    "zhuyin": "\u3109\u3122",
+    "ipa": [
+      "t",
+      "a",
+      "n"
+    ],
+    "yale": "dan",
+    "wadeGiles": "tan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/dan"
+  },
+  "dang": {
+    "parts": [
+      "d",
+      "ang"
+    ],
+    "zhuyin": "\u3109\u3124",
+    "ipa": [
+      "t",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "dang",
+    "wadeGiles": "tang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/dang"
+  },
+  "de": {
+    "parts": [
+      "d",
+      "e"
+    ],
+    "zhuyin": "\u3109\u311c",
+    "ipa": [
+      "t",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "de",
+    "wadeGiles": "te",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/de"
+  },
+  "dei": {
+    "parts": [
+      "d",
+      "ei"
+    ],
+    "zhuyin": "\u3109\u311f",
+    "ipa": [
+      "t",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "dei",
+    "wadeGiles": "tei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/dei"
+  },
+  "den": {
+    "parts": [
+      "d",
+      "en"
+    ],
+    "zhuyin": "\u3109\u3123",
+    "ipa": [
+      "t",
+      "\u0259",
+      "n"
+    ],
+    "yale": "den",
+    "wadeGiles": "ten",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/den"
+  },
+  "deng": {
+    "parts": [
+      "d",
+      "eng"
+    ],
+    "zhuyin": "\u3109\u3125",
+    "ipa": [
+      "t",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "deng",
+    "wadeGiles": "teng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/deng"
+  },
+  "dou": {
+    "parts": [
+      "d",
+      "ou"
+    ],
+    "zhuyin": "\u3109\u3121",
+    "ipa": [
+      "t",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "dou",
+    "wadeGiles": "tou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/dou"
+  },
+  "dong": {
+    "parts": [
+      "d",
+      "ong"
+    ],
+    "zhuyin": "\u3109\u3128\u3125",
+    "ipa": [
+      "t",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "dung",
+    "wadeGiles": "tung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/dong"
+  },
+  "di": {
+    "parts": [
+      "d",
+      "i"
+    ],
+    "zhuyin": "\u3109\u3127",
+    "ipa": [
+      "t",
+      "i"
+    ],
+    "yale": "di",
+    "wadeGiles": "ti",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/di"
+  },
+  "diao": {
+    "parts": [
+      "d",
+      "iao"
+    ],
+    "zhuyin": "\u3109\u3127\u3120",
+    "ipa": [
+      "t",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "dyau",
+    "wadeGiles": "tiao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/diao"
+  },
+  "die": {
+    "parts": [
+      "d",
+      "ie"
+    ],
+    "zhuyin": "\u3109\u3127\u311d",
+    "ipa": [
+      "t",
+      "i",
+      "\u025b"
+    ],
+    "yale": "dye",
+    "wadeGiles": "tieh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/die"
+  },
+  "diu": {
+    "parts": [
+      "d",
+      "iou"
+    ],
+    "zhuyin": "\u3109\u3127\u3121",
+    "ipa": [
+      "t",
+      "i",
+      "\u032f",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "dyou",
+    "wadeGiles": "tiu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/diu"
+  },
+  "dian": {
+    "parts": [
+      "d",
+      "ian"
+    ],
+    "zhuyin": "\u3109\u3127\u3122",
+    "ipa": [
+      "t",
+      "i",
+      "\u025b",
+      "n"
+    ],
+    "yale": "dyan",
+    "wadeGiles": "tien",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/dian"
+  },
+  "ding": {
+    "parts": [
+      "d",
+      "ing"
+    ],
+    "zhuyin": "\u3109\u3127\u3125",
+    "ipa": [
+      "t",
+      "i",
+      "\u014b"
+    ],
+    "yale": "ding",
+    "wadeGiles": "ting",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ding"
+  },
+  "du": {
+    "parts": [
+      "d",
+      "u"
+    ],
+    "zhuyin": "\u3109\u3128",
+    "ipa": [
+      "t",
+      "u"
+    ],
+    "yale": "du",
+    "wadeGiles": "tu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/du"
+  },
+  "dui": {
+    "parts": [
+      "d",
+      "uei"
+    ],
+    "zhuyin": "\u3109\u3128\u311f",
+    "ipa": [
+      "t",
+      "w",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "dwei",
+    "wadeGiles": "tui",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/dui"
+  },
+  "duo": {
+    "parts": [
+      "d",
+      "uo"
+    ],
+    "zhuyin": "\u3109\u3128\u311b",
+    "ipa": [
+      "t",
+      "w",
+      "\u0254"
+    ],
+    "yale": "dwo",
+    "wadeGiles": "to",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/duo"
+  },
+  "duan": {
+    "parts": [
+      "d",
+      "uan"
+    ],
+    "zhuyin": "\u3109\u3128\u3122",
+    "ipa": [
+      "t",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "dwan",
+    "wadeGiles": "tuan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/duan"
+  },
+  "dun": {
+    "parts": [
+      "d",
+      "uen"
+    ],
+    "zhuyin": "\u3109\u3128\u3123",
+    "ipa": [
+      "t",
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "dwen",
+    "wadeGiles": "tun",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/dun"
+  },
+  "ta": {
+    "parts": [
+      "t",
+      "a"
+    ],
+    "zhuyin": "\u310a\u311a",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "\u0251"
+    ],
+    "yale": "ta",
+    "wadeGiles": "t'a",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ta"
+  },
+  "tai": {
+    "parts": [
+      "t",
+      "ai"
+    ],
+    "zhuyin": "\u310a\u311e",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "tai",
+    "wadeGiles": "t'ai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tai"
+  },
+  "tao": {
+    "parts": [
+      "t",
+      "ao"
+    ],
+    "zhuyin": "\u310a\u3120",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "tau",
+    "wadeGiles": "t'ao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tao"
+  },
+  "tan": {
+    "parts": [
+      "t",
+      "an"
+    ],
+    "zhuyin": "\u310a\u3122",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "a",
+      "n"
+    ],
+    "yale": "tan",
+    "wadeGiles": "t'an",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tan"
+  },
+  "tang": {
+    "parts": [
+      "t",
+      "ang"
+    ],
+    "zhuyin": "\u310a\u3124",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "tang",
+    "wadeGiles": "t'ang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tang"
+  },
+  "te": {
+    "parts": [
+      "t",
+      "e"
+    ],
+    "zhuyin": "\u310a\u311c",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "te",
+    "wadeGiles": "t'e",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/te"
+  },
+  "teng": {
+    "parts": [
+      "t",
+      "eng"
+    ],
+    "zhuyin": "\u310a\u3125",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "teng",
+    "wadeGiles": "t'eng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/teng"
+  },
+  "tou": {
+    "parts": [
+      "t",
+      "ou"
+    ],
+    "zhuyin": "\u310a\u3121",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "tou",
+    "wadeGiles": "t'ou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tou"
+  },
+  "tong": {
+    "parts": [
+      "t",
+      "ong"
+    ],
+    "zhuyin": "\u310a\u3128\u3125",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "tung",
+    "wadeGiles": "t'ung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tong"
+  },
+  "ti": {
+    "parts": [
+      "t",
+      "i"
+    ],
+    "zhuyin": "\u310a\u3127",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "i"
+    ],
+    "yale": "ti",
+    "wadeGiles": "t'i",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ti"
+  },
+  "tiao": {
+    "parts": [
+      "t",
+      "iao"
+    ],
+    "zhuyin": "\u310a\u3127\u3120",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "tyau",
+    "wadeGiles": "t'iao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tiao"
+  },
+  "tie": {
+    "parts": [
+      "t",
+      "ie"
+    ],
+    "zhuyin": "\u310a\u3127\u311d",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "i",
+      "\u025b"
+    ],
+    "yale": "tye",
+    "wadeGiles": "t'ieh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tie"
+  },
+  "tian": {
+    "parts": [
+      "t",
+      "ian"
+    ],
+    "zhuyin": "\u310a\u3127\u3122",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "i",
+      "\u025b",
+      "n"
+    ],
+    "yale": "tyan",
+    "wadeGiles": "t'ien",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tian"
+  },
+  "ting": {
+    "parts": [
+      "t",
+      "ing"
+    ],
+    "zhuyin": "\u310a\u3127\u3125",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "i",
+      "\u014b"
+    ],
+    "yale": "ting",
+    "wadeGiles": "t'ing",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ting"
+  },
+  "tu": {
+    "parts": [
+      "t",
+      "u"
+    ],
+    "zhuyin": "\u310a\u3128",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "u"
+    ],
+    "yale": "tu",
+    "wadeGiles": "t'u",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tu"
+  },
+  "tui": {
+    "parts": [
+      "t",
+      "uei"
+    ],
+    "zhuyin": "\u310a\u3128\u311f",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "w",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "twei",
+    "wadeGiles": "t'ui",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tui"
+  },
+  "tuo": {
+    "parts": [
+      "t",
+      "uo"
+    ],
+    "zhuyin": "\u310a\u3128\u311b",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "w",
+      "\u0254"
+    ],
+    "yale": "two",
+    "wadeGiles": "t'o",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tuo"
+  },
+  "tuan": {
+    "parts": [
+      "t",
+      "uan"
+    ],
+    "zhuyin": "\u310a\u3128\u3122",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "twan",
+    "wadeGiles": "t'uan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tuan"
+  },
+  "tun": {
+    "parts": [
+      "t",
+      "uen"
+    ],
+    "zhuyin": "\u310a\u3128\u3123",
+    "ipa": [
+      "t",
+      "\u02b0",
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "twen",
+    "wadeGiles": "t'un",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/tun"
+  },
+  "na": {
+    "parts": [
+      "n",
+      "a"
+    ],
+    "zhuyin": "\u310b\u311a",
+    "ipa": [
+      "n",
+      "\u0251"
+    ],
+    "yale": "na",
+    "wadeGiles": "na",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/na"
+  },
+  "nai": {
+    "parts": [
+      "n",
+      "ai"
+    ],
+    "zhuyin": "\u310b\u311e",
+    "ipa": [
+      "n",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "nai",
+    "wadeGiles": "nai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nai"
+  },
+  "nao": {
+    "parts": [
+      "n",
+      "ao"
+    ],
+    "zhuyin": "\u310b\u3120",
+    "ipa": [
+      "n",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "nau",
+    "wadeGiles": "nao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nao"
+  },
+  "nan": {
+    "parts": [
+      "n",
+      "an"
+    ],
+    "zhuyin": "\u310b\u3122",
+    "ipa": [
+      "n",
+      "a",
+      "n"
+    ],
+    "yale": "nan",
+    "wadeGiles": "nan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nan"
+  },
+  "nang": {
+    "parts": [
+      "n",
+      "ang"
+    ],
+    "zhuyin": "\u310b\u3124",
+    "ipa": [
+      "n",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "nang",
+    "wadeGiles": "nang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nang"
+  },
+  "ne": {
+    "parts": [
+      "n",
+      "e"
+    ],
+    "zhuyin": "\u310b\u311c",
+    "ipa": [
+      "n",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "ne",
+    "wadeGiles": "ne",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ne"
+  },
+  "nei": {
+    "parts": [
+      "n",
+      "ei"
+    ],
+    "zhuyin": "\u310b\u311f",
+    "ipa": [
+      "n",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "nei",
+    "wadeGiles": "nei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nei"
+  },
+  "nen": {
+    "parts": [
+      "n",
+      "en"
+    ],
+    "zhuyin": "\u310b\u3123",
+    "ipa": [
+      "n",
+      "\u0259",
+      "n"
+    ],
+    "yale": "nen",
+    "wadeGiles": "nen",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nen"
+  },
+  "neng": {
+    "parts": [
+      "n",
+      "eng"
+    ],
+    "zhuyin": "\u310b\u3125",
+    "ipa": [
+      "n",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "neng",
+    "wadeGiles": "neng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/neng"
+  },
+  "nou": {
+    "parts": [
+      "n",
+      "ou"
+    ],
+    "zhuyin": "\u310b\u3121",
+    "ipa": [
+      "n",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "nou",
+    "wadeGiles": "nou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nou"
+  },
+  "nong": {
+    "parts": [
+      "n",
+      "ong"
+    ],
+    "zhuyin": "\u310b\u3128\u3125",
+    "ipa": [
+      "n",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "nung",
+    "wadeGiles": "nung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nong"
+  },
+  "ni": {
+    "parts": [
+      "n",
+      "i"
+    ],
+    "zhuyin": "\u310b\u3127",
+    "ipa": [
+      "n",
+      "i"
+    ],
+    "yale": "ni",
+    "wadeGiles": "ni",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ni"
+  },
+  "niao": {
+    "parts": [
+      "n",
+      "iao"
+    ],
+    "zhuyin": "\u310b\u3127\u3120",
+    "ipa": [
+      "n",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "nyau",
+    "wadeGiles": "niao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/niao"
+  },
+  "nie": {
+    "parts": [
+      "n",
+      "ie"
+    ],
+    "zhuyin": "\u310b\u3127\u311d",
+    "ipa": [
+      "n",
+      "i",
+      "\u025b"
+    ],
+    "yale": "nye",
+    "wadeGiles": "nieh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nie"
+  },
+  "niu": {
+    "parts": [
+      "n",
+      "iou"
+    ],
+    "zhuyin": "\u310b\u3127\u3121",
+    "ipa": [
+      "n",
+      "i",
+      "\u032f",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "nyou",
+    "wadeGiles": "niu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/niu"
+  },
+  "nian": {
+    "parts": [
+      "n",
+      "ian"
+    ],
+    "zhuyin": "\u310b\u3127\u3122",
+    "ipa": [
+      "n",
+      "i",
+      "\u025b",
+      "n"
+    ],
+    "yale": "nyan",
+    "wadeGiles": "nien",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nian"
+  },
+  "niang": {
+    "parts": [
+      "n",
+      "iang"
+    ],
+    "zhuyin": "\u310b\u3127\u3124",
+    "ipa": [
+      "n",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "nyang",
+    "wadeGiles": "niang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/niang"
+  },
+  "nin": {
+    "parts": [
+      "n",
+      "in"
+    ],
+    "zhuyin": "\u310b\u3127\u3123",
+    "ipa": [
+      "n",
+      "i",
+      "n"
+    ],
+    "yale": "nin",
+    "wadeGiles": "nin",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nin"
+  },
+  "ning": {
+    "parts": [
+      "n",
+      "ing"
+    ],
+    "zhuyin": "\u310b\u3127\u3125",
+    "ipa": [
+      "n",
+      "i",
+      "\u014b"
+    ],
+    "yale": "ning",
+    "wadeGiles": "ning",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ning"
+  },
+  "nu": {
+    "parts": [
+      "n",
+      "u"
+    ],
+    "zhuyin": "\u310b\u3128",
+    "ipa": [
+      "n",
+      "u"
+    ],
+    "yale": "nu",
+    "wadeGiles": "nu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nu"
+  },
+  "nuo": {
+    "parts": [
+      "n",
+      "uo"
+    ],
+    "zhuyin": "\u310b\u3128\u311b",
+    "ipa": [
+      "n",
+      "w",
+      "\u0254"
+    ],
+    "yale": "nwo",
+    "wadeGiles": "no",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nuo"
+  },
+  "nuan": {
+    "parts": [
+      "n",
+      "uan"
+    ],
+    "zhuyin": "\u310b\u3128\u3122",
+    "ipa": [
+      "n",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "nwan",
+    "wadeGiles": "nuan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/nuan"
+  },
+  "n\u00fc": {
+    "parts": [
+      "n",
+      "\u00fc"
+    ],
+    "zhuyin": "\u310b\u3129",
+    "ipa": [
+      "n",
+      "y"
+    ],
+    "yale": "nyu",
+    "wadeGiles": "n\u00fc",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/n\u00fc"
+  },
+  "n\u00fce": {
+    "parts": [
+      "n",
+      "\u00fce"
+    ],
+    "zhuyin": "\u310b\u3129\u311d",
+    "ipa": [
+      "n",
+      "y",
+      "\u032f",
+      "\u0153"
+    ],
+    "yale": "nywe",
+    "wadeGiles": "n\u00fceh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/n\u00fce"
+  },
+  "la": {
+    "parts": [
+      "l",
+      "a"
+    ],
+    "zhuyin": "\u310c\u311a",
+    "ipa": [
+      "l",
+      "\u0251"
+    ],
+    "yale": "la",
+    "wadeGiles": "la",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/la"
+  },
+  "lai": {
+    "parts": [
+      "l",
+      "ai"
+    ],
+    "zhuyin": "\u310c\u311e",
+    "ipa": [
+      "l",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "lai",
+    "wadeGiles": "lai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/lai"
+  },
+  "lao": {
+    "parts": [
+      "l",
+      "ao"
+    ],
+    "zhuyin": "\u310c\u3120",
+    "ipa": [
+      "l",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "lau",
+    "wadeGiles": "lao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/lao"
+  },
+  "lan": {
+    "parts": [
+      "l",
+      "an"
+    ],
+    "zhuyin": "\u310c\u3122",
+    "ipa": [
+      "l",
+      "a",
+      "n"
+    ],
+    "yale": "lan",
+    "wadeGiles": "lan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/lan"
+  },
+  "lang": {
+    "parts": [
+      "l",
+      "ang"
+    ],
+    "zhuyin": "\u310c\u3124",
+    "ipa": [
+      "l",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "lang",
+    "wadeGiles": "lang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/lang"
+  },
+  "le": {
+    "parts": [
+      "l",
+      "e"
+    ],
+    "zhuyin": "\u310c\u311c",
+    "ipa": [
+      "l",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "le",
+    "wadeGiles": "le",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/le"
+  },
+  "lei": {
+    "parts": [
+      "l",
+      "ei"
+    ],
+    "zhuyin": "\u310c\u311f",
+    "ipa": [
+      "l",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "lei",
+    "wadeGiles": "lei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/lei"
+  },
+  "leng": {
+    "parts": [
+      "l",
+      "eng"
+    ],
+    "zhuyin": "\u310c\u3125",
+    "ipa": [
+      "l",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "leng",
+    "wadeGiles": "leng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/leng"
+  },
+  "lo": {
+    "parts": [
+      "l",
+      "o"
+    ],
+    "zhuyin": "\u310c\u311b",
+    "ipa": [
+      "l",
+      "w",
+      "\u0254"
+    ],
+    "yale": "lo",
+    "wadeGiles": "lo",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/lo"
+  },
+  "lou": {
+    "parts": [
+      "l",
+      "ou"
+    ],
+    "zhuyin": "\u310c\u3121",
+    "ipa": [
+      "l",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "lou",
+    "wadeGiles": "lou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/lou"
+  },
+  "long": {
+    "parts": [
+      "l",
+      "ong"
+    ],
+    "zhuyin": "\u310c\u3128\u3125",
+    "ipa": [
+      "l",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "lung",
+    "wadeGiles": "lung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/long"
+  },
+  "li": {
+    "parts": [
+      "l",
+      "i"
+    ],
+    "zhuyin": "\u310c\u3127",
+    "ipa": [
+      "l",
+      "i"
+    ],
+    "yale": "li",
+    "wadeGiles": "li",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/li"
+  },
+  "lia": {
+    "parts": [
+      "l",
+      "ia"
+    ],
+    "zhuyin": "\u310c\u3127\u311a",
+    "ipa": [
+      "l",
+      "i",
+      "\u032f",
+      "\u0251"
+    ],
+    "yale": "lya",
+    "wadeGiles": "lia",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/lia"
+  },
+  "liao": {
+    "parts": [
+      "l",
+      "iao"
+    ],
+    "zhuyin": "\u310c\u3127\u3120",
+    "ipa": [
+      "l",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "lyau",
+    "wadeGiles": "liao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/liao"
+  },
+  "lie": {
+    "parts": [
+      "l",
+      "ie"
+    ],
+    "zhuyin": "\u310c\u3127\u311d",
+    "ipa": [
+      "l",
+      "i",
+      "\u025b"
+    ],
+    "yale": "lye",
+    "wadeGiles": "lieh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/lie"
+  },
+  "liu": {
+    "parts": [
+      "l",
+      "iou"
+    ],
+    "zhuyin": "\u310c\u3127\u3121",
+    "ipa": [
+      "l",
+      "i",
+      "\u032f",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "lyou",
+    "wadeGiles": "liu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/liu"
+  },
+  "lian": {
+    "parts": [
+      "l",
+      "ian"
+    ],
+    "zhuyin": "\u310c\u3127\u3122",
+    "ipa": [
+      "l",
+      "i",
+      "\u025b",
+      "n"
+    ],
+    "yale": "lyan",
+    "wadeGiles": "lien",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/lian"
+  },
+  "liang": {
+    "parts": [
+      "l",
+      "iang"
+    ],
+    "zhuyin": "\u310c\u3127\u3124",
+    "ipa": [
+      "l",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "lyang",
+    "wadeGiles": "liang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/liang"
+  },
+  "lin": {
+    "parts": [
+      "l",
+      "in"
+    ],
+    "zhuyin": "\u310c\u3127\u3123",
+    "ipa": [
+      "l",
+      "i",
+      "n"
+    ],
+    "yale": "lin",
+    "wadeGiles": "lin",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/lin"
+  },
+  "ling": {
+    "parts": [
+      "l",
+      "ing"
+    ],
+    "zhuyin": "\u310c\u3127\u3125",
+    "ipa": [
+      "l",
+      "i",
+      "\u014b"
+    ],
+    "yale": "ling",
+    "wadeGiles": "ling",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ling"
+  },
+  "lu": {
+    "parts": [
+      "l",
+      "u"
+    ],
+    "zhuyin": "\u310c\u3128",
+    "ipa": [
+      "l",
+      "u"
+    ],
+    "yale": "lu",
+    "wadeGiles": "lu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/lu"
+  },
+  "luo": {
+    "parts": [
+      "l",
+      "uo"
+    ],
+    "zhuyin": "\u310c\u3128\u311b",
+    "ipa": [
+      "l",
+      "w",
+      "\u0254"
+    ],
+    "yale": "lwo",
+    "wadeGiles": "lo",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/luo"
+  },
+  "luan": {
+    "parts": [
+      "l",
+      "uan"
+    ],
+    "zhuyin": "\u310c\u3128\u3122",
+    "ipa": [
+      "l",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "lwan",
+    "wadeGiles": "luan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/luan"
+  },
+  "lun": {
+    "parts": [
+      "l",
+      "uen"
+    ],
+    "zhuyin": "\u310c\u3128\u3123",
+    "ipa": [
+      "l",
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "lwun",
+    "wadeGiles": "lun",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/lun"
+  },
+  "l\u00fc": {
+    "parts": [
+      "l",
+      "\u00fc"
+    ],
+    "zhuyin": "\u310c\u3129",
+    "ipa": [
+      "l",
+      "y"
+    ],
+    "yale": "lyu",
+    "wadeGiles": "l\u00fc",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/l\u00fc"
+  },
+  "l\u00fce": {
+    "parts": [
+      "l",
+      "\u00fce"
+    ],
+    "zhuyin": "\u310c\u3129\u311d",
+    "ipa": [
+      "l",
+      "y",
+      "\u032f",
+      "\u0153"
+    ],
+    "yale": "lywe",
+    "wadeGiles": "l\u00fceh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/l\u00fce"
+  },
+  "za": {
+    "parts": [
+      "z",
+      "a"
+    ],
+    "zhuyin": "\u3117\u311a",
+    "ipa": [
+      "t\u0361s",
+      "\u0251"
+    ],
+    "yale": "dza",
+    "wadeGiles": "tsa",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/za"
+  },
+  "zai": {
+    "parts": [
+      "z",
+      "ai"
+    ],
+    "zhuyin": "\u3117\u311e",
+    "ipa": [
+      "t\u0361s",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "dzai",
+    "wadeGiles": "tsai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zai"
+  },
+  "zao": {
+    "parts": [
+      "z",
+      "ao"
+    ],
+    "zhuyin": "\u3117\u3120",
+    "ipa": [
+      "t\u0361s",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "dzau",
+    "wadeGiles": "tsao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zao"
+  },
+  "zan": {
+    "parts": [
+      "z",
+      "an"
+    ],
+    "zhuyin": "\u3117\u3122",
+    "ipa": [
+      "t\u0361s",
+      "a",
+      "n"
+    ],
+    "yale": "dzan",
+    "wadeGiles": "tsan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zan"
+  },
+  "zang": {
+    "parts": [
+      "z",
+      "ang"
+    ],
+    "zhuyin": "\u3117\u3124",
+    "ipa": [
+      "t\u0361s",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "dzang",
+    "wadeGiles": "tsang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zang"
+  },
+  "ze": {
+    "parts": [
+      "z",
+      "e"
+    ],
+    "zhuyin": "\u3117\u311c",
+    "ipa": [
+      "t\u0361s",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "dze",
+    "wadeGiles": "tse",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ze"
+  },
+  "zei": {
+    "parts": [
+      "z",
+      "ei"
+    ],
+    "zhuyin": "\u3117\u311f",
+    "ipa": [
+      "t\u0361s",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "dzei",
+    "wadeGiles": "tsei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zei"
+  },
+  "zen": {
+    "parts": [
+      "z",
+      "en"
+    ],
+    "zhuyin": "\u3117\u3123",
+    "ipa": [
+      "t\u0361s",
+      "\u0259",
+      "n"
+    ],
+    "yale": "dzen",
+    "wadeGiles": "tsen",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zen"
+  },
+  "zeng": {
+    "parts": [
+      "z",
+      "eng"
+    ],
+    "zhuyin": "\u3117\u3125",
+    "ipa": [
+      "t\u0361s",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "dzeng",
+    "wadeGiles": "tseng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zeng"
+  },
+  "zou": {
+    "parts": [
+      "z",
+      "ou"
+    ],
+    "zhuyin": "\u3117\u3121",
+    "ipa": [
+      "t\u0361s",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "dzou",
+    "wadeGiles": "tsou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zou"
+  },
+  "zong": {
+    "parts": [
+      "z",
+      "ong"
+    ],
+    "zhuyin": "\u3117\u3128\u3125",
+    "ipa": [
+      "t\u0361s",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "dzung",
+    "wadeGiles": "tsung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zong"
+  },
+  "zi": {
+    "parts": [
+      "z",
+      "i*"
+    ],
+    "zhuyin": "\u3117",
+    "ipa": [
+      "t\u0361s",
+      "\u027f"
+    ],
+    "yale": "dz",
+    "wadeGiles": "tzu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zi"
+  },
+  "zu": {
+    "parts": [
+      "z",
+      "u"
+    ],
+    "zhuyin": "\u3117\u3128",
+    "ipa": [
+      "t\u0361s",
+      "u"
+    ],
+    "yale": "dzu",
+    "wadeGiles": "tsu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zu"
+  },
+  "zui": {
+    "parts": [
+      "z",
+      "uei"
+    ],
+    "zhuyin": "\u3117\u3128\u311f",
+    "ipa": [
+      "t\u0361s",
+      "w",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "dzwei",
+    "wadeGiles": "tsui",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zui"
+  },
+  "zuo": {
+    "parts": [
+      "z",
+      "uo"
+    ],
+    "zhuyin": "\u3117\u3128\u311b",
+    "ipa": [
+      "t\u0361s",
+      "w",
+      "\u0254"
+    ],
+    "yale": "dzwo",
+    "wadeGiles": "tso",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zuo"
+  },
+  "zuan": {
+    "parts": [
+      "z",
+      "uan"
+    ],
+    "zhuyin": "\u3117\u3128\u3122",
+    "ipa": [
+      "t\u0361s",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "dzwan",
+    "wadeGiles": "tsuan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zuan"
+  },
+  "zun": {
+    "parts": [
+      "z",
+      "uen"
+    ],
+    "zhuyin": "\u3117\u3128\u3123",
+    "ipa": [
+      "t\u0361s",
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "dzwen",
+    "wadeGiles": "tsun",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zun"
+  },
+  "ca": {
+    "parts": [
+      "c",
+      "a"
+    ],
+    "zhuyin": "\u3118\u311a",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "\u0251"
+    ],
+    "yale": "tsa",
+    "wadeGiles": "ts'a",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ca"
+  },
+  "cai": {
+    "parts": [
+      "c",
+      "ai"
+    ],
+    "zhuyin": "\u3118\u311e",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "tsai",
+    "wadeGiles": "ts'ai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cai"
+  },
+  "cao": {
+    "parts": [
+      "c",
+      "ao"
+    ],
+    "zhuyin": "\u3118\u3120",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "tsau",
+    "wadeGiles": "ts'ao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cao"
+  },
+  "can": {
+    "parts": [
+      "c",
+      "an"
+    ],
+    "zhuyin": "\u3118\u3122",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "a",
+      "n"
+    ],
+    "yale": "tsan",
+    "wadeGiles": "ts'an",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/can"
+  },
+  "cang": {
+    "parts": [
+      "c",
+      "ang"
+    ],
+    "zhuyin": "\u3118\u3124",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "tsang",
+    "wadeGiles": "ts'ang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cang"
+  },
+  "ce": {
+    "parts": [
+      "c",
+      "e"
+    ],
+    "zhuyin": "\u3118\u311c",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "tse",
+    "wadeGiles": "ts'e",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ce"
+  },
+  "cei": {
+    "parts": [
+      "c",
+      "ei"
+    ],
+    "zhuyin": "\u3118\u311f",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "tsei",
+    "wadeGiles": "ts'ei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cei"
+  },
+  "cen": {
+    "parts": [
+      "c",
+      "en"
+    ],
+    "zhuyin": "\u3118\u3123",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "\u0259",
+      "n"
+    ],
+    "yale": "tsen",
+    "wadeGiles": "ts'en",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cen"
+  },
+  "ceng": {
+    "parts": [
+      "c",
+      "eng"
+    ],
+    "zhuyin": "\u3118\u3125",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "tseng",
+    "wadeGiles": "ts'eng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ceng"
+  },
+  "cou": {
+    "parts": [
+      "c",
+      "ou"
+    ],
+    "zhuyin": "\u3118\u3121",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "tsou",
+    "wadeGiles": "ts'ou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cou"
+  },
+  "cong": {
+    "parts": [
+      "c",
+      "ong"
+    ],
+    "zhuyin": "\u3118\u3128\u3125",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "tsung",
+    "wadeGiles": "ts'ung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cong"
+  },
+  "ci": {
+    "parts": [
+      "c",
+      "i*"
+    ],
+    "zhuyin": "\u3118",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "\u027f"
+    ],
+    "yale": "tsz",
+    "wadeGiles": "tz'u",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ci"
+  },
+  "cu": {
+    "parts": [
+      "c",
+      "u"
+    ],
+    "zhuyin": "\u3118\u3128",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "u"
+    ],
+    "yale": "tsu",
+    "wadeGiles": "ts'u",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cu"
+  },
+  "cui": {
+    "parts": [
+      "c",
+      "uei"
+    ],
+    "zhuyin": "\u3118\u3128\u311f",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "w",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "tswei",
+    "wadeGiles": "ts'ui",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cui"
+  },
+  "cuo": {
+    "parts": [
+      "c",
+      "uo"
+    ],
+    "zhuyin": "\u3118\u3128\u311b",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "w",
+      "\u0254"
+    ],
+    "yale": "tswo",
+    "wadeGiles": "ts'o",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cuo"
+  },
+  "cuan": {
+    "parts": [
+      "c",
+      "uan"
+    ],
+    "zhuyin": "\u3118\u3128\u3122",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "tswan",
+    "wadeGiles": "ts'uan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cuan"
+  },
+  "cun": {
+    "parts": [
+      "c",
+      "uen"
+    ],
+    "zhuyin": "\u3118\u3128\u3123",
+    "ipa": [
+      "t\u0361s",
+      "\u02b0",
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "tswen",
+    "wadeGiles": "ts'un",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cun"
+  },
+  "sa": {
+    "parts": [
+      "s",
+      "a"
+    ],
+    "zhuyin": "\u3119\u311a",
+    "ipa": [
+      "s",
+      "\u0251"
+    ],
+    "yale": "sa",
+    "wadeGiles": "sa",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/sa"
+  },
+  "sai": {
+    "parts": [
+      "s",
+      "ai"
+    ],
+    "zhuyin": "\u3119\u311e",
+    "ipa": [
+      "s",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "sai",
+    "wadeGiles": "sai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/sai"
+  },
+  "sao": {
+    "parts": [
+      "s",
+      "ao"
+    ],
+    "zhuyin": "\u3119\u3120",
+    "ipa": [
+      "s",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "sau",
+    "wadeGiles": "sao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/sao"
+  },
+  "san": {
+    "parts": [
+      "s",
+      "an"
+    ],
+    "zhuyin": "\u3119\u3122",
+    "ipa": [
+      "s",
+      "a",
+      "n"
+    ],
+    "yale": "san",
+    "wadeGiles": "san",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/san"
+  },
+  "sang": {
+    "parts": [
+      "s",
+      "ang"
+    ],
+    "zhuyin": "\u3119\u3124",
+    "ipa": [
+      "s",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "sang",
+    "wadeGiles": "sang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/sang"
+  },
+  "se": {
+    "parts": [
+      "s",
+      "e"
+    ],
+    "zhuyin": "\u3119\u311c",
+    "ipa": [
+      "s",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "se",
+    "wadeGiles": "se",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/se"
+  },
+  "sen": {
+    "parts": [
+      "s",
+      "en"
+    ],
+    "zhuyin": "\u3119\u3123",
+    "ipa": [
+      "s",
+      "\u0259",
+      "n"
+    ],
+    "yale": "sen",
+    "wadeGiles": "sen",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/sen"
+  },
+  "seng": {
+    "parts": [
+      "s",
+      "eng"
+    ],
+    "zhuyin": "\u3119\u3125",
+    "ipa": [
+      "s",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "seng",
+    "wadeGiles": "seng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/seng"
+  },
+  "sou": {
+    "parts": [
+      "s",
+      "ou"
+    ],
+    "zhuyin": "\u3119\u3121",
+    "ipa": [
+      "s",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "sou",
+    "wadeGiles": "sou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/sou"
+  },
+  "song": {
+    "parts": [
+      "s",
+      "ong"
+    ],
+    "zhuyin": "\u3119\u3128\u3125",
+    "ipa": [
+      "s",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "sung",
+    "wadeGiles": "sung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/song"
+  },
+  "si": {
+    "parts": [
+      "s",
+      "i*"
+    ],
+    "zhuyin": "\u3119",
+    "ipa": [
+      "s",
+      "\u027f"
+    ],
+    "yale": "sz",
+    "wadeGiles": "ssu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/si"
+  },
+  "su": {
+    "parts": [
+      "s",
+      "u"
+    ],
+    "zhuyin": "\u3119\u3128",
+    "ipa": [
+      "s",
+      "u"
+    ],
+    "yale": "su",
+    "wadeGiles": "su",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/su"
+  },
+  "sui": {
+    "parts": [
+      "s",
+      "uei"
+    ],
+    "zhuyin": "\u3119\u3128\u311f",
+    "ipa": [
+      "s",
+      "w",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "swei",
+    "wadeGiles": "sui",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/sui"
+  },
+  "suo": {
+    "parts": [
+      "s",
+      "uo"
+    ],
+    "zhuyin": "\u3119\u3128\u311b",
+    "ipa": [
+      "s",
+      "w",
+      "\u0254"
+    ],
+    "yale": "swo",
+    "wadeGiles": "so",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/suo"
+  },
+  "suan": {
+    "parts": [
+      "s",
+      "uan"
+    ],
+    "zhuyin": "\u3119\u3128\u3122",
+    "ipa": [
+      "s",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "swan",
+    "wadeGiles": "suan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/suan"
+  },
+  "sun": {
+    "parts": [
+      "s",
+      "uen"
+    ],
+    "zhuyin": "\u3119\u3128\u3123",
+    "ipa": [
+      "s",
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "swen",
+    "wadeGiles": "sun",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/sun"
+  },
+  "zha": {
+    "parts": [
+      "zh",
+      "a"
+    ],
+    "zhuyin": "\u3113\u311a",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u0251"
+    ],
+    "yale": "ja",
+    "wadeGiles": "cha",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zha"
+  },
+  "zhai": {
+    "parts": [
+      "zh",
+      "ai"
+    ],
+    "zhuyin": "\u3113\u311e",
+    "ipa": [
+      "t",
+      "\u0282",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "jai",
+    "wadeGiles": "chai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhai"
+  },
+  "zhao": {
+    "parts": [
+      "zh",
+      "ao"
+    ],
+    "zhuyin": "\u3113\u3120",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "jau",
+    "wadeGiles": "chao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhao"
+  },
+  "zhan": {
+    "parts": [
+      "zh",
+      "an"
+    ],
+    "zhuyin": "\u3113\u3122",
+    "ipa": [
+      "t",
+      "\u0282",
+      "a",
+      "n"
+    ],
+    "yale": "jan",
+    "wadeGiles": "chan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhan"
+  },
+  "zhang": {
+    "parts": [
+      "zh",
+      "ang"
+    ],
+    "zhuyin": "\u3113\u3124",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "jang",
+    "wadeGiles": "chang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhang"
+  },
+  "zhe": {
+    "parts": [
+      "zh",
+      "e"
+    ],
+    "zhuyin": "\u3113\u311c",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "je",
+    "wadeGiles": "che",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhe"
+  },
+  "zhei": {
+    "parts": [
+      "zh",
+      "ei"
+    ],
+    "zhuyin": "\u3113\u311f",
+    "ipa": [
+      "t",
+      "\u0282",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "jei",
+    "wadeGiles": "chei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhei"
+  },
+  "zhen": {
+    "parts": [
+      "zh",
+      "en"
+    ],
+    "zhuyin": "\u3113\u3123",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u0259",
+      "n"
+    ],
+    "yale": "jen",
+    "wadeGiles": "chen",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhen"
+  },
+  "zheng": {
+    "parts": [
+      "zh",
+      "eng"
+    ],
+    "zhuyin": "\u3113\u3125",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "jeng",
+    "wadeGiles": "cheng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zheng"
+  },
+  "zhou": {
+    "parts": [
+      "zh",
+      "ou"
+    ],
+    "zhuyin": "\u3113\u3121",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "jou",
+    "wadeGiles": "chou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhou"
+  },
+  "zhong": {
+    "parts": [
+      "zh",
+      "ong"
+    ],
+    "zhuyin": "\u3113\u3128\u3125",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "jung",
+    "wadeGiles": "chung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhong"
+  },
+  "zhi": {
+    "parts": [
+      "zh",
+      "i*"
+    ],
+    "zhuyin": "\u3113",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u0285"
+    ],
+    "yale": "jr",
+    "wadeGiles": "chih",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhi"
+  },
+  "zhu": {
+    "parts": [
+      "zh",
+      "u"
+    ],
+    "zhuyin": "\u3113\u3128",
+    "ipa": [
+      "t",
+      "\u0282",
+      "u"
+    ],
+    "yale": "ju",
+    "wadeGiles": "chu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhu"
+  },
+  "zhua": {
+    "parts": [
+      "zh",
+      "ua"
+    ],
+    "zhuyin": "\u3113\u3128\u311a",
+    "ipa": [
+      "t",
+      "\u0282",
+      "w",
+      "\u0251"
+    ],
+    "yale": "jwa",
+    "wadeGiles": "chua",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhua"
+  },
+  "zhuai": {
+    "parts": [
+      "zh",
+      "uai"
+    ],
+    "zhuyin": "\u3113\u3128\u311e",
+    "ipa": [
+      "t",
+      "\u0282",
+      "w",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "jwai",
+    "wadeGiles": "chuai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhuai"
+  },
+  "zhui": {
+    "parts": [
+      "zh",
+      "uei"
+    ],
+    "zhuyin": "\u3113\u3128\u311f",
+    "ipa": [
+      "t",
+      "\u0282",
+      "w",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "jwei",
+    "wadeGiles": "chui",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhui"
+  },
+  "zhuo": {
+    "parts": [
+      "zh",
+      "uo"
+    ],
+    "zhuyin": "\u3113\u3128\u311b",
+    "ipa": [
+      "t",
+      "\u0282",
+      "w",
+      "\u0254"
+    ],
+    "yale": "jwo",
+    "wadeGiles": "cho",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhuo"
+  },
+  "zhuan": {
+    "parts": [
+      "zh",
+      "uan"
+    ],
+    "zhuyin": "\u3113\u3128\u3122",
+    "ipa": [
+      "t",
+      "\u0282",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "jwan",
+    "wadeGiles": "chuan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhuan"
+  },
+  "zhuang": {
+    "parts": [
+      "zh",
+      "uang"
+    ],
+    "zhuyin": "\u3113\u3128\u3124",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u032f",
+      "w",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "jwang",
+    "wadeGiles": "chuang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhuang"
+  },
+  "zhun": {
+    "parts": [
+      "zh",
+      "uen"
+    ],
+    "zhuyin": "\u3113\u3128\u3123",
+    "ipa": [
+      "t",
+      "\u0282",
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "jwen",
+    "wadeGiles": "chun",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/zhun"
+  },
+  "cha": {
+    "parts": [
+      "ch",
+      "a"
+    ],
+    "zhuyin": "\u3114\u311a",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "\u0251"
+    ],
+    "yale": "cha",
+    "wadeGiles": "ch'a",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cha"
+  },
+  "chai": {
+    "parts": [
+      "ch",
+      "ai"
+    ],
+    "zhuyin": "\u3114\u311e",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "chai",
+    "wadeGiles": "ch'ai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chai"
+  },
+  "chao": {
+    "parts": [
+      "ch",
+      "ao"
+    ],
+    "zhuyin": "\u3114\u3120",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "chau",
+    "wadeGiles": "ch'ao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chao"
+  },
+  "chan": {
+    "parts": [
+      "ch",
+      "an"
+    ],
+    "zhuyin": "\u3114\u3122",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "a",
+      "n"
+    ],
+    "yale": "chan",
+    "wadeGiles": "ch'an",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chan"
+  },
+  "chang": {
+    "parts": [
+      "ch",
+      "ang"
+    ],
+    "zhuyin": "\u3114\u3124",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "chang",
+    "wadeGiles": "ch'ang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chang"
+  },
+  "che": {
+    "parts": [
+      "ch",
+      "e"
+    ],
+    "zhuyin": "\u3114\u311c",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "che",
+    "wadeGiles": "ch'e",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/che"
+  },
+  "chen": {
+    "parts": [
+      "ch",
+      "en"
+    ],
+    "zhuyin": "\u3114\u3123",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "\u0259",
+      "n"
+    ],
+    "yale": "chen",
+    "wadeGiles": "ch'en",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chen"
+  },
+  "cheng": {
+    "parts": [
+      "ch",
+      "eng"
+    ],
+    "zhuyin": "\u3114\u3125",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "cheng",
+    "wadeGiles": "ch'eng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/cheng"
+  },
+  "chou": {
+    "parts": [
+      "ch",
+      "ou"
+    ],
+    "zhuyin": "\u3114\u3121",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "chou",
+    "wadeGiles": "ch'ou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chou"
+  },
+  "chong": {
+    "parts": [
+      "ch",
+      "ong"
+    ],
+    "zhuyin": "\u3114\u3128\u3125",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "chung",
+    "wadeGiles": "ch'ung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chong"
+  },
+  "chi": {
+    "parts": [
+      "ch",
+      "i*"
+    ],
+    "zhuyin": "\u3114",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "\u0285"
+    ],
+    "yale": "chr",
+    "wadeGiles": "ch'ih",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chi"
+  },
+  "chu": {
+    "parts": [
+      "ch",
+      "u"
+    ],
+    "zhuyin": "\u3114\u3128",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "u"
+    ],
+    "yale": "chu",
+    "wadeGiles": "ch'u",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chu"
+  },
+  "chua": {
+    "parts": [
+      "ch",
+      "ua"
+    ],
+    "zhuyin": "\u3114\u3128\u311a",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "w",
+      "\u0251"
+    ],
+    "yale": "chwa",
+    "wadeGiles": "ch'ua",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chua"
+  },
+  "chuai": {
+    "parts": [
+      "ch",
+      "uai"
+    ],
+    "zhuyin": "\u3114\u3128\u311e",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "w",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "chwai",
+    "wadeGiles": "ch'uai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chuai"
+  },
+  "chui": {
+    "parts": [
+      "ch",
+      "uei"
+    ],
+    "zhuyin": "\u3114\u3128\u311f",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "w",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "chwei",
+    "wadeGiles": "ch'ui",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chui"
+  },
+  "chuo": {
+    "parts": [
+      "ch",
+      "uo"
+    ],
+    "zhuyin": "\u3114\u3128\u311b",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "w",
+      "\u0254"
+    ],
+    "yale": "chwo",
+    "wadeGiles": "ch'o",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chuo"
+  },
+  "chuan": {
+    "parts": [
+      "ch",
+      "uan"
+    ],
+    "zhuyin": "\u3114\u3128\u3122",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "chwan",
+    "wadeGiles": "ch'uan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chuan"
+  },
+  "chuang": {
+    "parts": [
+      "ch",
+      "uang"
+    ],
+    "zhuyin": "\u3114\u3128\u3124",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "w",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "chwang",
+    "wadeGiles": "ch'uang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chuang"
+  },
+  "chun": {
+    "parts": [
+      "ch",
+      "uen"
+    ],
+    "zhuyin": "\u3114\u3128\u3123",
+    "ipa": [
+      "t",
+      "\u0282",
+      "\u02b0",
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "chwen",
+    "wadeGiles": "ch'un",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/chun"
+  },
+  "sha": {
+    "parts": [
+      "sh",
+      "a"
+    ],
+    "zhuyin": "\u3115\u311a",
+    "ipa": [
+      "\u0282",
+      "\u0251"
+    ],
+    "yale": "sha",
+    "wadeGiles": "sha",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/sha"
+  },
+  "shai": {
+    "parts": [
+      "sh",
+      "ai"
+    ],
+    "zhuyin": "\u3115\u311e",
+    "ipa": [
+      "\u0282",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "shai",
+    "wadeGiles": "shai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shai"
+  },
+  "shao": {
+    "parts": [
+      "sh",
+      "ao"
+    ],
+    "zhuyin": "\u3115\u3120",
+    "ipa": [
+      "\u0282",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "shau",
+    "wadeGiles": "shao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shao"
+  },
+  "shan": {
+    "parts": [
+      "sh",
+      "an"
+    ],
+    "zhuyin": "\u3115\u3122",
+    "ipa": [
+      "\u0282",
+      "a",
+      "n"
+    ],
+    "yale": "shan",
+    "wadeGiles": "shan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shan"
+  },
+  "shang": {
+    "parts": [
+      "sh",
+      "ang"
+    ],
+    "zhuyin": "\u3115\u3124",
+    "ipa": [
+      "\u0282",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "shang",
+    "wadeGiles": "shang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shang"
+  },
+  "she": {
+    "parts": [
+      "sh",
+      "e"
+    ],
+    "zhuyin": "\u3115\u311c",
+    "ipa": [
+      "\u0282",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "she",
+    "wadeGiles": "she",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/she"
+  },
+  "shei": {
+    "parts": [
+      "sh",
+      "ei"
+    ],
+    "zhuyin": "\u3115\u311f",
+    "ipa": [
+      "\u0282",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "shei",
+    "wadeGiles": "shei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shei"
+  },
+  "shen": {
+    "parts": [
+      "sh",
+      "en"
+    ],
+    "zhuyin": "\u3115\u3123",
+    "ipa": [
+      "\u0282",
+      "\u0259",
+      "n"
+    ],
+    "yale": "shen",
+    "wadeGiles": "shen",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shen"
+  },
+  "sheng": {
+    "parts": [
+      "sh",
+      "eng"
+    ],
+    "zhuyin": "\u3115\u3125",
+    "ipa": [
+      "\u0282",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "sheng",
+    "wadeGiles": "sheng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/sheng"
+  },
+  "shou": {
+    "parts": [
+      "sh",
+      "ou"
+    ],
+    "zhuyin": "\u3115\u3121",
+    "ipa": [
+      "\u0282",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "shou",
+    "wadeGiles": "shou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shou"
+  },
+  "shi": {
+    "parts": [
+      "sh",
+      "i*"
+    ],
+    "zhuyin": "\u3115",
+    "ipa": [
+      "\u0282",
+      "\u0285"
+    ],
+    "yale": "shr",
+    "wadeGiles": "shih",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shi"
+  },
+  "shu": {
+    "parts": [
+      "sh",
+      "u"
+    ],
+    "zhuyin": "\u3115\u3128",
+    "ipa": [
+      "\u0282",
+      "u"
+    ],
+    "yale": "shu",
+    "wadeGiles": "shu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shu"
+  },
+  "shua": {
+    "parts": [
+      "sh",
+      "ua"
+    ],
+    "zhuyin": "\u3115\u3128\u311a",
+    "ipa": [
+      "\u0282",
+      "w",
+      "\u0251"
+    ],
+    "yale": "shwa",
+    "wadeGiles": "shua",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shua"
+  },
+  "shuai": {
+    "parts": [
+      "sh",
+      "uai"
+    ],
+    "zhuyin": "\u3115\u3128\u311e",
+    "ipa": [
+      "\u0282",
+      "w",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "shwai",
+    "wadeGiles": "shuai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shuai"
+  },
+  "shui": {
+    "parts": [
+      "sh",
+      "uei"
+    ],
+    "zhuyin": "\u3115\u3128\u311f",
+    "ipa": [
+      "\u0282",
+      "w",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "shwei",
+    "wadeGiles": "shui",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shui"
+  },
+  "shuo": {
+    "parts": [
+      "sh",
+      "uo"
+    ],
+    "zhuyin": "\u3115\u3128\u311b",
+    "ipa": [
+      "\u0282",
+      "w",
+      "\u0254"
+    ],
+    "yale": "shwo",
+    "wadeGiles": "sho",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shuo"
+  },
+  "shuan": {
+    "parts": [
+      "sh",
+      "uan"
+    ],
+    "zhuyin": "\u3115\u3128\u3122",
+    "ipa": [
+      "\u0282",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "shwan",
+    "wadeGiles": "shuan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shuan"
+  },
+  "shuang": {
+    "parts": [
+      "sh",
+      "uang"
+    ],
+    "zhuyin": "\u3115\u3128\u3124",
+    "ipa": [
+      "\u0282",
+      "w",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "shwang",
+    "wadeGiles": "shuang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shuang"
+  },
+  "shun": {
+    "parts": [
+      "sh",
+      "uen"
+    ],
+    "zhuyin": "\u3115\u3128\u3123",
+    "ipa": [
+      "\u0282",
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "shwun",
+    "wadeGiles": "shun",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/shun"
+  },
+  "rao": {
+    "parts": [
+      "r",
+      "ao"
+    ],
+    "zhuyin": "\u3116\u3120",
+    "ipa": [
+      "\u0290",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "rau",
+    "wadeGiles": "jao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/rao"
+  },
+  "ran": {
+    "parts": [
+      "r",
+      "an"
+    ],
+    "zhuyin": "\u3116\u3122",
+    "ipa": [
+      "\u0290",
+      "a",
+      "n"
+    ],
+    "yale": "ran",
+    "wadeGiles": "jan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ran"
+  },
+  "rang": {
+    "parts": [
+      "r",
+      "ang"
+    ],
+    "zhuyin": "\u3116\u3124",
+    "ipa": [
+      "\u0290",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "rang",
+    "wadeGiles": "jang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/rang"
+  },
+  "re": {
+    "parts": [
+      "r",
+      "e"
+    ],
+    "zhuyin": "\u3116\u311c",
+    "ipa": [
+      "\u0290",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "re",
+    "wadeGiles": "je",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/re"
+  },
+  "ren": {
+    "parts": [
+      "r",
+      "en"
+    ],
+    "zhuyin": "\u3116\u3123",
+    "ipa": [
+      "\u0290",
+      "\u0259",
+      "n"
+    ],
+    "yale": "ren",
+    "wadeGiles": "jen",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ren"
+  },
+  "reng": {
+    "parts": [
+      "r",
+      "eng"
+    ],
+    "zhuyin": "\u3116\u3125",
+    "ipa": [
+      "\u0290",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "reng",
+    "wadeGiles": "jeng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/reng"
+  },
+  "rou": {
+    "parts": [
+      "r",
+      "ou"
+    ],
+    "zhuyin": "\u3116\u3121",
+    "ipa": [
+      "\u0290",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "rou",
+    "wadeGiles": "jou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/rou"
+  },
+  "rong": {
+    "parts": [
+      "r",
+      "ong"
+    ],
+    "zhuyin": "\u3116\u3128\u3125",
+    "ipa": [
+      "\u0290",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "rung",
+    "wadeGiles": "jung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/rong"
+  },
+  "ri": {
+    "parts": [
+      "r",
+      "i*"
+    ],
+    "zhuyin": "\u3116",
+    "ipa": [
+      "\u0290",
+      "\u0285"
+    ],
+    "yale": "r",
+    "wadeGiles": "jih",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ri"
+  },
+  "ru": {
+    "parts": [
+      "r",
+      "u"
+    ],
+    "zhuyin": "\u3116\u3128",
+    "ipa": [
+      "\u0290",
+      "u"
+    ],
+    "yale": "ru",
+    "wadeGiles": "ju",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ru"
+  },
+  "rua": {
+    "parts": [
+      "r",
+      "ua"
+    ],
+    "zhuyin": "\u3116\u3128\u311a",
+    "ipa": [
+      "\u0290",
+      "w",
+      "\u0251"
+    ],
+    "yale": "rwa",
+    "wadeGiles": "jua",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/rua"
+  },
+  "rui": {
+    "parts": [
+      "r",
+      "uei"
+    ],
+    "zhuyin": "\u3116\u3128\u311f",
+    "ipa": [
+      "\u0290",
+      "w",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "rwei",
+    "wadeGiles": "jui",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/rui"
+  },
+  "ruo": {
+    "parts": [
+      "r",
+      "uo"
+    ],
+    "zhuyin": "\u3116\u3128\u311b",
+    "ipa": [
+      "\u0290",
+      "w",
+      "\u0254"
+    ],
+    "yale": "rwo",
+    "wadeGiles": "jo",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ruo"
+  },
+  "ruan": {
+    "parts": [
+      "r",
+      "uan"
+    ],
+    "zhuyin": "\u3116\u3128\u3122",
+    "ipa": [
+      "\u0290",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "rwan",
+    "wadeGiles": "juan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ruan"
+  },
+  "run": {
+    "parts": [
+      "r",
+      "uen"
+    ],
+    "zhuyin": "\u3116\u3128\u3123",
+    "ipa": [
+      "\u0290",
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "rwun",
+    "wadeGiles": "jun",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/run"
+  },
+  "ji": {
+    "parts": [
+      "j",
+      "i"
+    ],
+    "zhuyin": "\u3110\u3127",
+    "ipa": [
+      "t\u0361\u0255",
+      "i"
+    ],
+    "yale": "ji",
+    "wadeGiles": "chi",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ji"
+  },
+  "jia": {
+    "parts": [
+      "j",
+      "ia"
+    ],
+    "zhuyin": "\u3110\u3127\u311a",
+    "ipa": [
+      "t\u0361\u0255",
+      "i",
+      "\u032f",
+      "\u0251"
+    ],
+    "yale": "jya",
+    "wadeGiles": "chia",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/jia"
+  },
+  "jiao": {
+    "parts": [
+      "j",
+      "iao"
+    ],
+    "zhuyin": "\u3110\u3127\u3120",
+    "ipa": [
+      "t\u0361\u0255",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "jyau",
+    "wadeGiles": "chiao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/jiao"
+  },
+  "jie": {
+    "parts": [
+      "j",
+      "ie"
+    ],
+    "zhuyin": "\u3110\u3127\u311d",
+    "ipa": [
+      "t\u0361\u0255",
+      "i",
+      "\u025b"
+    ],
+    "yale": "jye",
+    "wadeGiles": "chieh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/jie"
+  },
+  "jiu": {
+    "parts": [
+      "j",
+      "iou"
+    ],
+    "zhuyin": "\u3110\u3127\u3121",
+    "ipa": [
+      "t\u0361\u0255",
+      "i",
+      "\u032f",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "jyou",
+    "wadeGiles": "chiu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/jiu"
+  },
+  "jian": {
+    "parts": [
+      "j",
+      "ian"
+    ],
+    "zhuyin": "\u3110\u3127\u3122",
+    "ipa": [
+      "t\u0361\u0255",
+      "i",
+      "\u025b",
+      "n"
+    ],
+    "yale": "jyan",
+    "wadeGiles": "chien",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/jian"
+  },
+  "jiang": {
+    "parts": [
+      "j",
+      "iang"
+    ],
+    "zhuyin": "\u3110\u3127\u3124",
+    "ipa": [
+      "t\u0361\u0255",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "jyang",
+    "wadeGiles": "chiang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/jiang"
+  },
+  "jin": {
+    "parts": [
+      "j",
+      "in"
+    ],
+    "zhuyin": "\u3110\u3127\u3123",
+    "ipa": [
+      "t\u0361\u0255",
+      "i",
+      "n"
+    ],
+    "yale": "jin",
+    "wadeGiles": "chin",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/jin"
+  },
+  "jing": {
+    "parts": [
+      "j",
+      "ing"
+    ],
+    "zhuyin": "\u3110\u3127\u3125",
+    "ipa": [
+      "t\u0361\u0255",
+      "i",
+      "\u014b"
+    ],
+    "yale": "jing",
+    "wadeGiles": "ching",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/jing"
+  },
+  "jiong": {
+    "parts": [
+      "j",
+      "iong"
+    ],
+    "zhuyin": "\u3110\u3129\u3125",
+    "ipa": [
+      "t\u0361\u0255",
+      "i",
+      "\u032f",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "jyung",
+    "wadeGiles": "chiung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/jiong"
+  },
+  "ju": {
+    "parts": [
+      "j",
+      "\u00fc"
+    ],
+    "zhuyin": "\u3110\u3129",
+    "ipa": [
+      "t\u0361\u0255",
+      "y"
+    ],
+    "yale": "jyu",
+    "wadeGiles": "ch\u00fc",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ju"
+  },
+  "jue": {
+    "parts": [
+      "j",
+      "\u00fce"
+    ],
+    "zhuyin": "\u3110\u3129\u311d",
+    "ipa": [
+      "t\u0361\u0255",
+      "y",
+      "\u032f",
+      "\u0153"
+    ],
+    "yale": "jywe",
+    "wadeGiles": "ch\u00fceh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/jue"
+  },
+  "juan": {
+    "parts": [
+      "j",
+      "\u00fcan"
+    ],
+    "zhuyin": "\u3110\u3129\u3122",
+    "ipa": [
+      "t\u0361\u0255",
+      "y",
+      "\u032f",
+      "\u025b",
+      "n"
+    ],
+    "yale": "jywan",
+    "wadeGiles": "ch\u00fcan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/juan"
+  },
+  "jun": {
+    "parts": [
+      "j",
+      "\u00fcn"
+    ],
+    "zhuyin": "\u3110\u3129\u3123",
+    "ipa": [
+      "t\u0361\u0255",
+      "y",
+      "n"
+    ],
+    "yale": "jyun",
+    "wadeGiles": "ch\u00fcn",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/jun"
+  },
+  "qi": {
+    "parts": [
+      "q",
+      "i"
+    ],
+    "zhuyin": "\u3111\u3127",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "i"
+    ],
+    "yale": "chi",
+    "wadeGiles": "ch'i",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/qi"
+  },
+  "qia": {
+    "parts": [
+      "q",
+      "ia"
+    ],
+    "zhuyin": "\u3111\u3127\u311a",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "i",
+      "\u032f",
+      "\u0251"
+    ],
+    "yale": "chya",
+    "wadeGiles": "ch'ia",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/qia"
+  },
+  "qiao": {
+    "parts": [
+      "q",
+      "iao"
+    ],
+    "zhuyin": "\u3111\u3127\u3120",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "chyau",
+    "wadeGiles": "ch'iao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/qiao"
+  },
+  "qie": {
+    "parts": [
+      "q",
+      "ie"
+    ],
+    "zhuyin": "\u3111\u3127\u311d",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "i",
+      "\u025b"
+    ],
+    "yale": "chye",
+    "wadeGiles": "ch'ieh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/qie"
+  },
+  "qiu": {
+    "parts": [
+      "q",
+      "iou"
+    ],
+    "zhuyin": "\u3111\u3127\u3121",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "i",
+      "\u032f",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "chyou",
+    "wadeGiles": "ch'iu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/qiu"
+  },
+  "qian": {
+    "parts": [
+      "q",
+      "ian"
+    ],
+    "zhuyin": "\u3111\u3127\u3122",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "i",
+      "\u025b",
+      "n"
+    ],
+    "yale": "chyan",
+    "wadeGiles": "ch'ien",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/qian"
+  },
+  "qiang": {
+    "parts": [
+      "q",
+      "iang"
+    ],
+    "zhuyin": "\u3111\u3127\u3124",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "chyang",
+    "wadeGiles": "ch'iang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/qiang"
+  },
+  "qin": {
+    "parts": [
+      "q",
+      "in"
+    ],
+    "zhuyin": "\u3111\u3127\u3123",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "i",
+      "n"
+    ],
+    "yale": "chin",
+    "wadeGiles": "ch'in",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/qin"
+  },
+  "qing": {
+    "parts": [
+      "q",
+      "ing"
+    ],
+    "zhuyin": "\u3111\u3127\u3125",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "i",
+      "\u014b"
+    ],
+    "yale": "ching",
+    "wadeGiles": "ch'ing",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/qing"
+  },
+  "qiong": {
+    "parts": [
+      "q",
+      "iong"
+    ],
+    "zhuyin": "\u3111\u3129\u3125",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "i",
+      "\u032f",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "chyung",
+    "wadeGiles": "ch'iung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/qiong"
+  },
+  "qu": {
+    "parts": [
+      "q",
+      "\u00fc"
+    ],
+    "zhuyin": "\u3111\u3129",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "y"
+    ],
+    "yale": "chyu",
+    "wadeGiles": "ch'\u00fc",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/qu"
+  },
+  "que": {
+    "parts": [
+      "q",
+      "\u00fce"
+    ],
+    "zhuyin": "\u3111\u3129\u311d",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "y",
+      "\u032f",
+      "\u0153"
+    ],
+    "yale": "chywe",
+    "wadeGiles": "ch'\u00fceh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/que"
+  },
+  "quan": {
+    "parts": [
+      "q",
+      "\u00fcan"
+    ],
+    "zhuyin": "\u3111\u3129\u3122",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "y",
+      "\u032f",
+      "\u025b",
+      "n"
+    ],
+    "yale": "chywan",
+    "wadeGiles": "ch'\u00fcan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/quan"
+  },
+  "qun": {
+    "parts": [
+      "q",
+      "\u00fcn"
+    ],
+    "zhuyin": "\u3111\u3129\u3123",
+    "ipa": [
+      "t\u0361\u0255",
+      "\u02b0",
+      "y",
+      "n"
+    ],
+    "yale": "chyun",
+    "wadeGiles": "ch'\u00fcn",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/qun"
+  },
+  "xi": {
+    "parts": [
+      "x",
+      "i"
+    ],
+    "zhuyin": "\u3112\u3127",
+    "ipa": [
+      "\u0255",
+      "i"
+    ],
+    "yale": "syi",
+    "wadeGiles": "his",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xi"
+  },
+  "xia": {
+    "parts": [
+      "x",
+      "ia"
+    ],
+    "zhuyin": "\u3112\u3127\u311a",
+    "ipa": [
+      "\u0255",
+      "i",
+      "\u032f",
+      "\u0251"
+    ],
+    "yale": "sya",
+    "wadeGiles": "hsia",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xia"
+  },
+  "xiao": {
+    "parts": [
+      "x",
+      "iao"
+    ],
+    "zhuyin": "\u3112\u3127\u3120",
+    "ipa": [
+      "\u0255",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "syau",
+    "wadeGiles": "hsiao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xiao"
+  },
+  "xie": {
+    "parts": [
+      "x",
+      "ie"
+    ],
+    "zhuyin": "\u3112\u3127\u311d",
+    "ipa": [
+      "\u0255",
+      "i",
+      "\u025b"
+    ],
+    "yale": "sye",
+    "wadeGiles": "hsieh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xie"
+  },
+  "xiu": {
+    "parts": [
+      "x",
+      "iou"
+    ],
+    "zhuyin": "\u3112\u3127\u3121",
+    "ipa": [
+      "\u0255",
+      "i",
+      "\u032f",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "syou",
+    "wadeGiles": "hsiu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xiu"
+  },
+  "xian": {
+    "parts": [
+      "x",
+      "ian"
+    ],
+    "zhuyin": "\u3112\u3127\u3122",
+    "ipa": [
+      "\u0255",
+      "i",
+      "\u025b",
+      "n"
+    ],
+    "yale": "syan",
+    "wadeGiles": "hsien",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xian"
+  },
+  "xiang": {
+    "parts": [
+      "x",
+      "iang"
+    ],
+    "zhuyin": "\u3112\u3127\u3124",
+    "ipa": [
+      "\u0255",
+      "i",
+      "\u032f",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "syang",
+    "wadeGiles": "hsiang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xiang"
+  },
+  "xin": {
+    "parts": [
+      "x",
+      "in"
+    ],
+    "zhuyin": "\u3112\u3127\u3123",
+    "ipa": [
+      "\u0255",
+      "i",
+      "n"
+    ],
+    "yale": "syin",
+    "wadeGiles": "hsin",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xin"
+  },
+  "xing": {
+    "parts": [
+      "x",
+      "ing"
+    ],
+    "zhuyin": "\u3112\u3127\u3125",
+    "ipa": [
+      "\u0255",
+      "i",
+      "\u014b"
+    ],
+    "yale": "sying",
+    "wadeGiles": "hsing",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xing"
+  },
+  "xiong": {
+    "parts": [
+      "x",
+      "iong"
+    ],
+    "zhuyin": "\u3112\u3129\u3125",
+    "ipa": [
+      "\u0255",
+      "i",
+      "\u032f",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "syung",
+    "wadeGiles": "hsiung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xiong"
+  },
+  "xu": {
+    "parts": [
+      "x",
+      "\u00fc"
+    ],
+    "zhuyin": "\u3112\u3129",
+    "ipa": [
+      "\u0255",
+      "y"
+    ],
+    "yale": "syu",
+    "wadeGiles": "hs\u00fc",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xu"
+  },
+  "xue": {
+    "parts": [
+      "x",
+      "\u00fce"
+    ],
+    "zhuyin": "\u3112\u3129\u311d",
+    "ipa": [
+      "\u0255",
+      "y",
+      "\u032f",
+      "\u0153"
+    ],
+    "yale": "sywe",
+    "wadeGiles": "hs\u00fceh",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xue"
+  },
+  "xuan": {
+    "parts": [
+      "x",
+      "\u00fcan"
+    ],
+    "zhuyin": "\u3112\u3129\u3122",
+    "ipa": [
+      "\u0255",
+      "y",
+      "\u032f",
+      "\u025b",
+      "n"
+    ],
+    "yale": "sywan",
+    "wadeGiles": "hs\u00fcan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xuan"
+  },
+  "xun": {
+    "parts": [
+      "x",
+      "\u00fcn"
+    ],
+    "zhuyin": "\u3112\u3129\u3123",
+    "ipa": [
+      "\u0255",
+      "y",
+      "n"
+    ],
+    "yale": "syun",
+    "wadeGiles": "hs\u00fcn",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/xun"
+  },
+  "ga": {
+    "parts": [
+      "g",
+      "a"
+    ],
+    "zhuyin": "\u310d\u311a",
+    "ipa": [
+      "k",
+      "\u0251"
+    ],
+    "yale": "ga",
+    "wadeGiles": "ka",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ga"
+  },
+  "gai": {
+    "parts": [
+      "g",
+      "ai"
+    ],
+    "zhuyin": "\u310d\u311e",
+    "ipa": [
+      "k",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "gai",
+    "wadeGiles": "kai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/gai"
+  },
+  "gao": {
+    "parts": [
+      "g",
+      "ao"
+    ],
+    "zhuyin": "\u310d\u3120",
+    "ipa": [
+      "k",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "gau",
+    "wadeGiles": "kao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/gao"
+  },
+  "gan": {
+    "parts": [
+      "g",
+      "an"
+    ],
+    "zhuyin": "\u310d\u3122",
+    "ipa": [
+      "k",
+      "a",
+      "n"
+    ],
+    "yale": "gan",
+    "wadeGiles": "kan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/gan"
+  },
+  "gang": {
+    "parts": [
+      "g",
+      "ang"
+    ],
+    "zhuyin": "\u310d\u3124",
+    "ipa": [
+      "k",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "gang",
+    "wadeGiles": "kang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/gang"
+  },
+  "ge": {
+    "parts": [
+      "g",
+      "e"
+    ],
+    "zhuyin": "\u310d\u311c",
+    "ipa": [
+      "k",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "ge",
+    "wadeGiles": "ke",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ge"
+  },
+  "gei": {
+    "parts": [
+      "g",
+      "ei"
+    ],
+    "zhuyin": "\u310d\u311f",
+    "ipa": [
+      "k",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "gei",
+    "wadeGiles": "kei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/gei"
+  },
+  "gen": {
+    "parts": [
+      "g",
+      "en"
+    ],
+    "zhuyin": "\u310d\u3123",
+    "ipa": [
+      "k",
+      "\u0259",
+      "n"
+    ],
+    "yale": "gen",
+    "wadeGiles": "ken",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/gen"
+  },
+  "geng": {
+    "parts": [
+      "g",
+      "eng"
+    ],
+    "zhuyin": "\u310d\u3125",
+    "ipa": [
+      "k",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "geng",
+    "wadeGiles": "keng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/geng"
+  },
+  "gou": {
+    "parts": [
+      "g",
+      "ou"
+    ],
+    "zhuyin": "\u310d\u3121",
+    "ipa": [
+      "k",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "gou",
+    "wadeGiles": "kou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/gou"
+  },
+  "gong": {
+    "parts": [
+      "g",
+      "ong"
+    ],
+    "zhuyin": "\u310d\u3128\u3125",
+    "ipa": [
+      "k",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "gung",
+    "wadeGiles": "kung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/gong"
+  },
+  "gu": {
+    "parts": [
+      "g",
+      "u"
+    ],
+    "zhuyin": "\u310d\u3128",
+    "ipa": [
+      "k",
+      "u"
+    ],
+    "yale": "gu",
+    "wadeGiles": "ku",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/gu"
+  },
+  "gua": {
+    "parts": [
+      "g",
+      "ua"
+    ],
+    "zhuyin": "\u310d\u3128\u311a",
+    "ipa": [
+      "k",
+      "w",
+      "\u0251"
+    ],
+    "yale": "gwa",
+    "wadeGiles": "kua",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/gua"
+  },
+  "guai": {
+    "parts": [
+      "g",
+      "uai"
+    ],
+    "zhuyin": "\u310d\u3128\u311e",
+    "ipa": [
+      "k",
+      "w",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "gwai",
+    "wadeGiles": "kuai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/guai"
+  },
+  "gui": {
+    "parts": [
+      "g",
+      "uei"
+    ],
+    "zhuyin": "\u310d\u3128\u311f",
+    "ipa": [
+      "k",
+      "w",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "gwei",
+    "wadeGiles": "kui",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/gui"
+  },
+  "guo": {
+    "parts": [
+      "g",
+      "uo"
+    ],
+    "zhuyin": "\u310d\u3128\u311b",
+    "ipa": [
+      "k",
+      "w",
+      "\u0254"
+    ],
+    "yale": "gwo",
+    "wadeGiles": "ko",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/guo"
+  },
+  "guan": {
+    "parts": [
+      "g",
+      "uan"
+    ],
+    "zhuyin": "\u310d\u3128\u3122",
+    "ipa": [
+      "k",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "gwan",
+    "wadeGiles": "kuan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/guan"
+  },
+  "guang": {
+    "parts": [
+      "g",
+      "uang"
+    ],
+    "zhuyin": "\u310d\u3128\u3124",
+    "ipa": [
+      "k",
+      "w",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "gwang",
+    "wadeGiles": "kuang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/guang"
+  },
+  "gun": {
+    "parts": [
+      "g",
+      "uen"
+    ],
+    "zhuyin": "\u310d\u3128\u3123",
+    "ipa": [
+      "k",
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "gwun",
+    "wadeGiles": "kun",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/gun"
+  },
+  "ka": {
+    "parts": [
+      "k",
+      "a"
+    ],
+    "zhuyin": "\u310e\u311a",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "\u0251"
+    ],
+    "yale": "ka",
+    "wadeGiles": "k'a",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ka"
+  },
+  "kai": {
+    "parts": [
+      "k",
+      "ai"
+    ],
+    "zhuyin": "\u310e\u311e",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "kai",
+    "wadeGiles": "k'ai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kai"
+  },
+  "kao": {
+    "parts": [
+      "k",
+      "ao"
+    ],
+    "zhuyin": "\u310e\u3120",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "kau",
+    "wadeGiles": "k'ao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kao"
+  },
+  "kan": {
+    "parts": [
+      "k",
+      "an"
+    ],
+    "zhuyin": "\u310e\u3122",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "a",
+      "n"
+    ],
+    "yale": "kan",
+    "wadeGiles": "k'an",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kan"
+  },
+  "kang": {
+    "parts": [
+      "k",
+      "ang"
+    ],
+    "zhuyin": "\u310e\u3124",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "kang",
+    "wadeGiles": "k'ang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kang"
+  },
+  "ke": {
+    "parts": [
+      "k",
+      "e"
+    ],
+    "zhuyin": "\u310e\u311c",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "ke",
+    "wadeGiles": "k'e",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ke"
+  },
+  "kei": {
+    "parts": [
+      "k",
+      "ei"
+    ],
+    "zhuyin": "\u310e\u311f",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "kei",
+    "wadeGiles": "k'ei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kei"
+  },
+  "ken": {
+    "parts": [
+      "k",
+      "en"
+    ],
+    "zhuyin": "\u310e\u3123",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "\u0259",
+      "n"
+    ],
+    "yale": "ken",
+    "wadeGiles": "k'en",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ken"
+  },
+  "keng": {
+    "parts": [
+      "k",
+      "eng"
+    ],
+    "zhuyin": "\u310e\u3125",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "keng",
+    "wadeGiles": "k'eng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/keng"
+  },
+  "kou": {
+    "parts": [
+      "k",
+      "ou"
+    ],
+    "zhuyin": "\u310e\u3121",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "kou",
+    "wadeGiles": "k'ou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kou"
+  },
+  "kong": {
+    "parts": [
+      "k",
+      "ong"
+    ],
+    "zhuyin": "\u310e\u3128\u3125",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "kung",
+    "wadeGiles": "k'ung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kong"
+  },
+  "ku": {
+    "parts": [
+      "k",
+      "u"
+    ],
+    "zhuyin": "\u310e\u3128",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "u"
+    ],
+    "yale": "ku",
+    "wadeGiles": "k'u",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ku"
+  },
+  "kua": {
+    "parts": [
+      "k",
+      "ua"
+    ],
+    "zhuyin": "\u310e\u3128\u311a",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "w",
+      "\u0251"
+    ],
+    "yale": "kwa",
+    "wadeGiles": "k'ua",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kua"
+  },
+  "kuai": {
+    "parts": [
+      "k",
+      "uai"
+    ],
+    "zhuyin": "\u310e\u3128\u311e",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "w",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "kwai",
+    "wadeGiles": "k'uai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kuai"
+  },
+  "kui": {
+    "parts": [
+      "k",
+      "uei"
+    ],
+    "zhuyin": "\u310e\u3128\u311f",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "w",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "kwei",
+    "wadeGiles": "k'ui",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kui"
+  },
+  "kuo": {
+    "parts": [
+      "k",
+      "uo"
+    ],
+    "zhuyin": "\u310e\u3128\u311b",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "w",
+      "\u0254"
+    ],
+    "yale": "kwo",
+    "wadeGiles": "k'o",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kuo"
+  },
+  "kuan": {
+    "parts": [
+      "k",
+      "uan"
+    ],
+    "zhuyin": "\u310e\u3128\u3122",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "kwan",
+    "wadeGiles": "k'uan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kuan"
+  },
+  "kuang": {
+    "parts": [
+      "k",
+      "uang"
+    ],
+    "zhuyin": "\u310e\u3128\u3124",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "w",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "kwang",
+    "wadeGiles": "k'uang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kuang"
+  },
+  "kun": {
+    "parts": [
+      "k",
+      "uen"
+    ],
+    "zhuyin": "\u310e\u3128\u3123",
+    "ipa": [
+      "k",
+      "\u02b0",
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "kwen",
+    "wadeGiles": "k'un",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/kun"
+  },
+  "ha": {
+    "parts": [
+      "h",
+      "a"
+    ],
+    "zhuyin": "\u310f\u311a",
+    "ipa": [
+      "x",
+      "\u0251"
+    ],
+    "yale": "ha",
+    "wadeGiles": "ha",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/ha"
+  },
+  "hai": {
+    "parts": [
+      "h",
+      "ai"
+    ],
+    "zhuyin": "\u310f\u311e",
+    "ipa": [
+      "x",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "hai",
+    "wadeGiles": "hai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/hai"
+  },
+  "hao": {
+    "parts": [
+      "h",
+      "ao"
+    ],
+    "zhuyin": "\u310f\u3120",
+    "ipa": [
+      "x",
+      "\u0251",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "hau",
+    "wadeGiles": "hao",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/hao"
+  },
+  "han": {
+    "parts": [
+      "h",
+      "an"
+    ],
+    "zhuyin": "\u310f\u3122",
+    "ipa": [
+      "x",
+      "a",
+      "n"
+    ],
+    "yale": "han",
+    "wadeGiles": "han",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/han"
+  },
+  "hang": {
+    "parts": [
+      "h",
+      "ang"
+    ],
+    "zhuyin": "\u310f\u3124",
+    "ipa": [
+      "x",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "hang",
+    "wadeGiles": "hang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/hang"
+  },
+  "he": {
+    "parts": [
+      "h",
+      "e"
+    ],
+    "zhuyin": "\u310f\u311c",
+    "ipa": [
+      "x",
+      "\u026f",
+      "\u032f",
+      "\u028c"
+    ],
+    "yale": "he",
+    "wadeGiles": "he",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/he"
+  },
+  "hei": {
+    "parts": [
+      "h",
+      "ei"
+    ],
+    "zhuyin": "\u310f\u311f",
+    "ipa": [
+      "x",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "hei",
+    "wadeGiles": "hei",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/hei"
+  },
+  "hen": {
+    "parts": [
+      "h",
+      "en"
+    ],
+    "zhuyin": "\u310f\u3123",
+    "ipa": [
+      "x",
+      "\u0259",
+      "n"
+    ],
+    "yale": "hen",
+    "wadeGiles": "hen",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/hen"
+  },
+  "heng": {
+    "parts": [
+      "h",
+      "eng"
+    ],
+    "zhuyin": "\u310f\u3125",
+    "ipa": [
+      "x",
+      "\u0259",
+      "\u014b"
+    ],
+    "yale": "heng",
+    "wadeGiles": "heng",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/heng"
+  },
+  "hou": {
+    "parts": [
+      "h",
+      "ou"
+    ],
+    "zhuyin": "\u310f\u3121",
+    "ipa": [
+      "x",
+      "\u0264",
+      "\u028a",
+      "\u032f"
+    ],
+    "yale": "hou",
+    "wadeGiles": "hou",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/hou"
+  },
+  "hong": {
+    "parts": [
+      "h",
+      "ong"
+    ],
+    "zhuyin": "\u310f\u3128\u3125",
+    "ipa": [
+      "x",
+      "\u028a",
+      "\u014b"
+    ],
+    "yale": "hung",
+    "wadeGiles": "hung",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/hong"
+  },
+  "hu": {
+    "parts": [
+      "h",
+      "u"
+    ],
+    "zhuyin": "\u310f\u3128",
+    "ipa": [
+      "x",
+      "u"
+    ],
+    "yale": "hu",
+    "wadeGiles": "hu",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/hu"
+  },
+  "hua": {
+    "parts": [
+      "h",
+      "ua"
+    ],
+    "zhuyin": "\u310f\u3128\u311a",
+    "ipa": [
+      "x",
+      "w",
+      "\u0251"
+    ],
+    "yale": "hwa",
+    "wadeGiles": "hua",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/hua"
+  },
+  "huai": {
+    "parts": [
+      "h",
+      "uai"
+    ],
+    "zhuyin": "\u310f\u3128\u311e",
+    "ipa": [
+      "x",
+      "w",
+      "a",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "hwai",
+    "wadeGiles": "huai",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/huai"
+  },
+  "hui": {
+    "parts": [
+      "h",
+      "uei"
+    ],
+    "zhuyin": "\u310f\u3128\u311f",
+    "ipa": [
+      "x",
+      "w",
+      "e",
+      "\u026a",
+      "\u032f"
+    ],
+    "yale": "hwei",
+    "wadeGiles": "hui",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/hui"
+  },
+  "huo": {
+    "parts": [
+      "h",
+      "uo"
+    ],
+    "zhuyin": "\u310f\u3128\u311b",
+    "ipa": [
+      "x",
+      "w",
+      "\u0254"
+    ],
+    "yale": "hwo",
+    "wadeGiles": "ho",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/huo"
+  },
+  "huan": {
+    "parts": [
+      "h",
+      "uan"
+    ],
+    "zhuyin": "\u310f\u3128\u3122",
+    "ipa": [
+      "x",
+      "w",
+      "a",
+      "n"
+    ],
+    "yale": "hwan",
+    "wadeGiles": "huan",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/huan"
+  },
+  "huang": {
+    "parts": [
+      "h",
+      "uang"
+    ],
+    "zhuyin": "\u310f\u3128\u3124",
+    "ipa": [
+      "x",
+      "w",
+      "\u0251",
+      "\u014b"
+    ],
+    "yale": "hwang",
+    "wadeGiles": "huang",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/huang"
+  },
+  "hun": {
+    "parts": [
+      "h",
+      "uen"
+    ],
+    "zhuyin": "\u310f\u3128\u3123",
+    "ipa": [
+      "x",
+      "w",
+      "\u0259",
+      "n"
+    ],
+    "yale": "hwen",
+    "wadeGiles": "hun",
+    "url": "https://resources.allsetlearning.com/chinese/pronunciation/hun"
+  }
+}

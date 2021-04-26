@@ -4,3 +4,6 @@ pinyin_deck.apkg
 # Ignore IntelliJ metadata
 .idea
 .venv
+
+# Python caches
+__pycache__

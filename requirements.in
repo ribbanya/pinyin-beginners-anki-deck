@@ -1,2 +1,10 @@
-genanki
+# shared
 beautifulsoup4
+
+# generate-deck
+genanki
+
+# tools
+requests-cache
+ipapy
+wikitextparser
